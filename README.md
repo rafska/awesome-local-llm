@@ -419,7 +419,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/reddit/subreddit-subscribers/LocalLLM?style=social" height="17" align="texttop"/> [LocalLLM](https://www.reddit.com/r/LocalLLM)
 - <img src="https://img.shields.io/reddit/subreddit-subscribers/LLMDevs?style=social" height="17" align="texttop"/> [LLMDevs](https://www.reddit.com/r/LLMDevs)
 - <img src="https://img.shields.io/reddit/subreddit-subscribers/LocalAIServers?style=social" height="17" align="texttop"/> [LocalAIServers](https://www.reddit.com/r/LocalAIServers/)
-- <img src="https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram" height="17" align="texttop"/> [GenAI monitor](https://t.me/genaimon) - monitoring updates & fresh releases related to LLMs, diffusion models and Generative AI
+- <img src="https://img.shields.io/badge/Telegram-%25?logo=telegram&labelColor=white&color=blue" height="17" align="texttop"/> [GenAI monitor](https://t.me/genaimon) - monitoring updates & fresh releases related to LLMs, diffusion models and Generative AI
 
 [Back to Table of Contents](#table-of-contents)
 
