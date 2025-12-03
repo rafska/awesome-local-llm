@@ -403,6 +403,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Retrieval-Augmented Generation
 
+- <img src="https://img.shields.io/github/stars/pathwaycom/llm-app?style=social" height="17" align="texttop"/> [Pathway AI Pipelines](https://github.com/pathwaycom/llm-app) - ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data
 - <img src="https://img.shields.io/github/stars/NirDiamant/RAG_Techniques?style=social" height="17" align="texttop"/> [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) - various advanced techniques for Retrieval-Augmented Generation (RAG) systems
 - <img src="https://img.shields.io/github/stars/NirDiamant/Controllable-RAG-Agent?style=social" height="17" align="texttop"/> [Controllable RAG Agent](https://github.com/NirDiamant/Controllable-RAG-Agent) - an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering that uses sophisticated graph based algorithm to handle the tasks
 - <img src="https://img.shields.io/github/stars/lokeswaran-aj/langchain-rag-cookbook?style=social" height="17" align="texttop"/> [LangChain RAG Cookbook](https://github.com/lokeswaran-aj/langchain-rag-cookbook) - a collection of modular RAG techniques, implemented in LangChain + Python
