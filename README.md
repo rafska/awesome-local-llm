@@ -127,7 +127,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 #### Coding
 
 - [Qwen3-Coder](https://huggingface.co/collections/Qwen/qwen3-coder-687fc861e53c939e52d52d10) - a collection of the Qwen's most agentic code models to date
-- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Devstral-Small-2507](https://huggingface.co/mistralai/Devstral-Small-2507) - an agentic LLM for software engineering tasks fine-tuned from Mistral-Small-3.1
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Devstral 2](https://huggingface.co/collections/mistralai/devstral-2) - a couple of agentic LLMs for software engineering tasks, excelling at using tools to explore codebases, edit multiple files, and power SWE Agents
 - [Mellum-4b-base](https://huggingface.co/JetBrains/Mellum-4b-base) - an LLM from JetBrains, optimized for code-related tasks
 - [OlympicCoder-32B](https://huggingface.co/open-r1/OlympicCoder-32B) - a code model that achieves very strong performance on competitive coding benchmarks such as LiveCodeBench and the 2024 International Olympiad in Informatics
 - [NextCoder](https://huggingface.co/collections/microsoft/nextcoder-6815ee6bfcf4e42f20d45028) - a family of code-editing LLMs developed using the Qwen2.5-Coder Instruct variants as base
