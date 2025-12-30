@@ -146,7 +146,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 #### Image
 
 - [Qwen-Image](https://huggingface.co/Qwen/Qwen-Image) - an image generation foundation model in the Qwen series that achieves significant advances in complex text rendering and precise image editing
-- [Qwen-Image-Edit-2509](https://huggingface.co/Qwen/Qwen-Image-Edit-2509) - the image editing version of Qwen-Image extending the base model's unique text rendering capabilities to image editing tasks, enabling precise text editing
+- [Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511) - the image editing version of Qwen-Image extending the base model's unique text rendering capabilities to image editing tasks, enabling precise text editing
 - [Qwen3-VL](https://huggingface.co/collections/Qwen/qwen3-vl-68d2a7c1b8a8afce4ebd2dbe) - a collection of the most powerful vision-language models in the Qwen series to date
 - [HunyuanImage-2.1](https://huggingface.co/tencent/HunyuanImage-2.1) - an efficient diffusion model for high-resolution (2K) text-to-image generation​ 
 - [FastVLM](https://huggingface.co/collections/apple/fastvlm-68ac97b9cd5cacefdd04872e) - a collection of VLMs with efficient vision encoding from Apple
