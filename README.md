@@ -334,6 +334,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Miscellaneous
 
 - <img src="https://img.shields.io/github/stars/upstash/context7?style=social" height="17" align="texttop"/> [context7](https://github.com/upstash/context7) - up-to-date code documentation for LLMs and AI code editors
+- <img src="https://img.shields.io/github/stars/AsyncFuncAI/deepwiki-open?style=social" height="17" align="texttop"/> [deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - open source DeepWiki: AI-powered wiki generator for GitHub/Gitlab/Bitbucket repositories
 - <img src="https://img.shields.io/github/stars/aliasrobotics/cai?style=social" height="17" align="texttop"/> [cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 - <img src="https://img.shields.io/github/stars/murtaza-nasir/speakr?style=social" height="17" align="texttop"/> [speakr](https://github.com/murtaza-nasir/speakr) - a personal, self-hosted web application designed for transcribing audio recordings
 - <img src="https://img.shields.io/github/stars/presenton/presenton?style=social" height="17" align="texttop"/> [presenton](https://github.com/presenton/presenton) - an open-source AI presentation generator and API
