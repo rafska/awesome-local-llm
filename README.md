@@ -256,11 +256,11 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Coding Agents
 
+- <img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="17" align="texttop"/> [opencode](https://github.com/sst/opencode) - a AI coding agent built for the terminal
 - <img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" height="17" align="texttop"/> [zed](https://github.com/zed-industries/zed) - a next-generation code editor designed for high-performance collaboration with humans and AI
 - <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17" align="texttop"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - <img src="https://img.shields.io/github/stars/cline/cline?style=social" height="17" align="texttop"/> [cline](https://github.com/cline/cline) - autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way
 - <img src="https://img.shields.io/github/stars/Aider-AI/aider?style=social" height="17" align="texttop"/> [aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal
-- <img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="17" align="texttop"/> [opencode](https://github.com/sst/opencode) - a AI coding agent built for the terminal
 - <img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" height="17" align="texttop"/> [tabby](https://github.com/TabbyML/tabby) -  an open-source GitHub Copilot alternative, set up your own LLM-powered code completion server
 - <img src="https://img.shields.io/github/stars/continuedev/continue?style=social" height="17" align="texttop"/> [continue](https://github.com/continuedev/continue) - create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - <img src="https://img.shields.io/github/stars/voideditor/void?style=social" height="17" align="texttop"/> [void](https://github.com/voideditor/void) - an open-source Cursor alternative, use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally
@@ -408,6 +408,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Agents
 
+- <img src="https://img.shields.io/github/stars/obra/superpowers?style=social" height="17" align="texttop"/> [superpowers](https://github.com/obra/superpowers) - an agentic skills framework & software development methodology that works
 - <img src="https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=social" height="17" align="texttop"/> [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) - tutorials and implementations for various Generative AI Agent techniques
 - <img src="https://img.shields.io/github/stars/ashishpatel26/500-AI-Agents-Projects?style=social" height="17" align="texttop"/> [500+ AI Agent Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - a curated collection of AI agent use cases across various industries
 - <img src="https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=social" height="17" align="texttop"/> [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) - principles for building reliable LLM applications
