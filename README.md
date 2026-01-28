@@ -87,6 +87,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Explorers, Benchmarks, Leaderboards
 
+- [Arena](https://arena.ai/) - benchmark & compare the best AI models
 - [AI Models & API Providers Analysis](https://artificialanalysis.ai/) - understand the AI landscape to choose the best model and provider for your use case
 - [LLM Explorer](https://llm-explorer.com/) - explore list of the open-source LLM models
 - [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
