@@ -153,7 +153,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Qwen-Image](https://huggingface.co/collections/Qwen/qwen-image) - a collection of models for image generation, edit and decomposition from Qwen
 - [Qwen3-VL](https://huggingface.co/collections/Qwen/qwen3-vl-68d2a7c1b8a8afce4ebd2dbe) - a collection of the most powerful vision-language models in the Qwen series to date
 - [GLM-Image](https://huggingface.co/zai-org/GLM-Image) - an image generation model
-- [HunyuanImage-2.1](https://huggingface.co/tencent/HunyuanImage-2.1) - an efficient diffusion model for high-resolution (2K) text-to-image generation​ 
+- [HunyuanImage](https://huggingface.co/collections/tencent/hunyuanimage) - a collection of image generation models from Tencent
+- [HunyuanVideo](https://huggingface.co/collections/tencent/hunyuanvideo) - a collection of video generation models from Tencent 
 - [Vidi](https://huggingface.co/collections/bytedance-research/vidi) - a collection of models for multimodal video understanding and creation
 - [FastVLM](https://huggingface.co/collections/apple/fastvlm-68ac97b9cd5cacefdd04872e) - a collection of VLMs with efficient vision encoding from Apple
 - [MiniCPM-V-4_5](https://huggingface.co/openbmb/MiniCPM-V-4_5) - a GPT-4o Level MLLM for single image, multi image and high-FPS video understanding on your phone
@@ -194,7 +195,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B) - a state-of-the-art 8B orchestration model designed to solve complex, multi-turn agentic tasks by coordinating a diverse set of expert models and tools
 - [Arch-Router-1.5B](https://huggingface.co/katanemo/Arch-Router-1.5B) - the fastest LLM router model that aligns to subjective usage preferences
 - [Waypoint-1](https://huggingface.co/collections/Overworld/waypoint-1) - a collection of control-and-text-conditioned causal diffusion models that can generate worlds in realtime on high-end consumer hardware
-- [HunyuanWorld-1](https://huggingface.co/tencent/HunyuanWorld-1) - an open-source 3D world generation model
+- [Hunyuan3D](https://huggingface.co/collections/tencent/hunyuan3d) - a collection of everything related (models, datasets etc.) to 3D assets generation from Tencent
 - [Hunyuan-GameCraft-1.0](https://huggingface.co/tencent/Hunyuan-GameCraft-1.0) - a novel framework for high-dynamic interactive video generation in game environments
 
 [Back to Table of Contents](#table-of-contents)
