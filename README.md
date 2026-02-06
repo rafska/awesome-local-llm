@@ -370,8 +370,10 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Kolosal - LLM Memory calculator](https://www.kolosal.ai/memory-calculator) - estimate the RAM requirements of any GGUF model instantly
 - [LLM Inference VRAM & GPU Requirement Calculator](https://app.linpp2009.com/en/llm-gpu-memory-calculator) - calculate how many GPUs you need to deploy LLMs
 - <img src="https://img.shields.io/github/stars/vosen/ZLUDA?style=social" height="17" align="texttop"/> [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
+- [GPU Buying Guide for Local AI](https://insiderllm.com/guides/gpu-buying-guide-local-ai/) - budget-tier GPU recommendations for local LLM inference, from under $300 to enthusiast builds
 
 [Back to Table of Contents](#table-of-contents)
+
 
 ## Tutorials
 
@@ -381,6 +383,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/karpathy/nanochat?style=social" height="17" align="texttop"/> [nanochat](https://github.com/karpathy/nanochat) - a full-stack implementation of an LLM like ChatGPT in a single, clean, minimal, hackable, dependency-lite codebase, designed to run on a single 8XH100 node via scripts like speedrun.sh, that run the entire pipeline start to end
 - <img src="https://img.shields.io/youtube/views/jrJKRYAdh7I?style=social" height="17" align="texttop"/> [Knowledge Distillation: How LLMs train each other](https://www.youtube.com/watch?v=jrJKRYAdh7I)
 - <img src="https://img.shields.io/github/stars/iuliaturc/gguf-docs?style=social" height="17" align="texttop"/> [gguf-docs](https://github.com/iuliaturc/gguf-docs) - Docs for GGUF quantization (unofficial)
+- [VRAM Requirements for Local LLMs](https://insiderllm.com/guides/vram-requirements-local-llms/) - exact model recommendations for every VRAM tier from 4GB to 24GB, with quantization tradeoffs
+- [LLM Quantization Explained: GGUF, GPTQ, AWQ, EXL2](https://insiderllm.com/guides/llm-quantization-explained/) - practical guide to quantization formats, when to use each, and quality vs. speed tradeoffs
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -410,6 +414,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Inference
 
 - <img src="https://img.shields.io/github/stars/vllm-project/production-stack?style=social" height="17" align="texttop"/> [vLLM Production Stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization
+- [Running LLMs on Mac M-Series](https://insiderllm.com/guides/running-llms-mac-m-series/) - guide to running local models on Apple Silicon M1 through M4, covering MLX, Ollama, and unified memory considerations
+
 
 [Back to Table of Contents](#table-of-contents)
 
