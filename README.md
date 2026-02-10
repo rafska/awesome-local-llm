@@ -244,6 +244,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/czlonkowski/n8n-mcp?style=social" height="17" align="texttop"/> [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - a MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 - <img src="https://img.shields.io/github/stars/awslabs/mcp?style=social" height="17" align="texttop"/> [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP
 - <img src="https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=social" height="17" align="texttop"/> [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
+- <img src="https://img.shields.io/github/stars/bytebase/dbhub?style=social" height="17" align="texttop"/> [dbhub](https://github.com/bytebase/dbhub) - zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite
 
 [Back to Table of Contents](#table-of-contents)
 
