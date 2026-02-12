@@ -279,6 +279,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social" height="17" align="texttop"/> [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
 - <img src="https://img.shields.io/github/stars/humanlayer/humanlayer?style=social" height="17" align="texttop"/> [humanlayer](https://github.com/humanlayer/humanlayer) - the best way to get AI coding agents to solve hard problems in complex codebases
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17" align="texttop"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
+- <img src="https://img.shields.io/github/stars/klyvedev/klyve?style=social" height="17" align="texttop"/> [Klyve](https://klyve.online) - A local-first, free SDLC orchestrator that manages context for local LLMs to build complete applications.
 
 [Back to Table of Contents](#table-of-contents)
 
