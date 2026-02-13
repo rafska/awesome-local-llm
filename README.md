@@ -48,7 +48,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17" align="texttop"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
 - <img src="https://img.shields.io/github/stars/ChatBoxAI/ChatBox?style=social" height="17" align="texttop"/> [ChatBox](https://github.com/ChatBoxAI/ChatBox) - user-friendly desktop client app for AI models/LLMs
 - <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17" align="texttop"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
-- <img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" height="17" align="texttop"/> [OpenClaw](https://github.com/openclaw/openclaw) - self-hosted AI assistant connecting Claude to WhatsApp, Telegram, Discord, Slack, and more
+- <img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" height="17" align="texttop"/> [OpenClaw](https://github.com/openclaw/openclaw) - self-hosted AI assistant connecting Claude to WhatsApp, Telegram, Discord, Slack, and more ([docs](https://clawdbot.blog/getting-started/installation/))
 
 [Back to Table of Contents](#table-of-contents)
 
