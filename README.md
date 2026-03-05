@@ -48,6 +48,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17" align="texttop"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
 - <img src="https://img.shields.io/github/stars/ChatBoxAI/ChatBox?style=social" height="17" align="texttop"/> [ChatBox](https://github.com/ChatBoxAI/ChatBox) - user-friendly desktop client app for AI models/LLMs
 - <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17" align="texttop"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
+- <img src="https://img.shields.io/github/stars/defilantech/LLMKube?style=social" height="17" align="texttop"/> [LLMKube](https://github.com/defilantech/LLMKube) - Kubernetes operator for llama.cpp-native LLM inference with NVIDIA CUDA and Apple Silicon Metal GPU support
 
 [Back to Table of Contents](#table-of-contents)
 
