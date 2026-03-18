@@ -207,6 +207,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Tools
 
+- <img src="https://img.shields.io/github/stars/wd041216-bit/free-web-search-ultimate?style=social" height="17" align="texttop"/> [free-web-search-ultimate](https://github.com/wd041216-bit/free-web-search-ultimate) [![free-web-search-ultimate MCP server](https://glama.ai/mcp/servers/wd041216-bit/free-web-search-ultimate/badges/score.svg)](https://glama.ai/mcp/servers/wd041216-bit/free-web-search-ultimate) - Zero-cost MCP server and CLI tool for real-time web search. Enforces **Search-First** paradigm for local LLMs. Supports DuckDuckGo, Bing, Google, Brave, Wikipedia, Arxiv, YouTube, Reddit. No API key required. Install: `pip install free-web-search-ultimate`
 ### Models
 
 - <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" height="17" align="texttop"/> [unsloth](https://github.com/unslothai/unsloth) - fine-tuning & reinforcement learning for LLMs
