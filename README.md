@@ -327,6 +327,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/garak?style=social" height="17" align="texttop"/> [garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner from NVIDIA
 - <img src="https://img.shields.io/github/stars/Giskard-AI/giskard?style=social" height="17" align="texttop"/> [giskard](https://github.com/Giskard-AI/giskard) - an open-source evaluation & testing for AI & LLM systems
 - <img src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" height="17" align="texttop"/> [agenta](https://github.com/Agenta-AI/agenta) - an open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place
+- <img src="https://img.shields.io/github/stars/lanesket/llm.log?style=social" height="17" align="texttop"/> [llm.log](https://github.com/lanesket/llm.log) - local MITM proxy with TUI dashboard for monitoring LLM API calls — token usage, real costs, latency and full request inspector. Supports OpenAI, Anthropic and OpenRouter. Zero code changes, single binary, pure Go.
 
 [Back to Table of Contents](#table-of-contents)
 
