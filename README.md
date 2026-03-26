@@ -29,6 +29,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
   - [Testing, Evaluation, and Observability](#testing-evaluation-and-observability)
   - [Research](#research)
   - [Training and Fine-tuning](#training-and-fine-tuning)
+  - [Sandboxing](#sandboxing)
   - [Miscellaneous](#miscellaneous-1)
 - [Hardware](#hardware)
 - [Tutorials](#tutorials)
@@ -232,6 +233,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/agno-agi/agno?style=social" height="17" align="texttop"/> [agno](https://github.com/agno-agi/agno) - a full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning
 - <img src="https://img.shields.io/github/stars/simstudioai/sim?style=social" height="17" align="texttop"/> [sim](https://github.com/simstudioai/sim) - open-source platform to build and deploy AI agent workflows
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social" height="17" align="texttop"/> [openai-agents-python](https://github.com/openai/openai-agents-python) - a lightweight, powerful framework for multi-agent workflows
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/NemoClaw?style=social" height="17" align="texttop"/> [NemoClaw](https://github.com/NVIDIA/NemoClaw) - run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - <img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" height="17" align="texttop"/> [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - an open-source framework to build, manage and run useful Autonomous AI Agents
 - <img src="https://img.shields.io/github/stars/camel-ai/camel?style=social" height="17" align="texttop"/> [camel](https://github.com/camel-ai/camel) - the first and the best multi-agent framework
 - <img src="https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social" height="17" align="texttop"/> [pydantic-ai](https://github.com/pydantic/pydantic-ai) - a Python agent framework designed to help you quickly, confidently, and painlessly build production grade applications and workflows with Generative AI
@@ -322,7 +324,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 [Back to Table of Contents](#table-of-contents)
 
-### Testing, Evaluation, and Observability
+### Testing, Evaluation and Observability
 
 - <img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" height="17" align="texttop"/> [langfuse](https://github.com/langfuse/langfuse) - an open-source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more
 - <img src="https://img.shields.io/github/stars/comet-ml/opik?style=social" height="17" align="texttop"/> [opik](https://github.com/comet-ml/opik) - debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards
@@ -351,6 +353,12 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social" height="17" align="texttop"/> [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - an easy-to-use, high-performance open-source RLHF framework built on Ray, vLLM, ZeRO-3 and HuggingFace Transformers, designed to make RLHF training simple and accessible
 - <img src="https://img.shields.io/github/stars/kiln-ai/kiln?style=social" height="17" align="texttop"/> [Kiln](https://github.com/kiln-ai/kiln) - the easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets
 - <img src="https://img.shields.io/github/stars/e-p-armstrong/augmentoolkit?style=social" height="17" align="texttop"/> [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - train an open-source LLM on new facts
+
+[Back to Table of Contents](#table-of-contents)
+
+### Sandboxing
+
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/OpenShell?style=social" height="17" align="texttop"/> [OpenShell](https://github.com/NVIDIA/OpenShell) - the safe, private runtime for autonomous AI agents from NVIDIA
 
 [Back to Table of Contents](#table-of-contents)
 
