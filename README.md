@@ -15,18 +15,19 @@ A curated list of awesome platforms, tools, practices and resources that helps r
     - [Multimodal](#multimodal)
     - [Image](#image)
     - [Audio](#audio)
+    - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
     - [Safeguards](#safeguards)
     - [Miscellaneous](#miscellaneous)
 - [Tools](#tools)
   - [Models](#models)
   - [Agent Frameworks](#agent-frameworks)
   - [Model Context Protocol](#model-context-protocol)
-  - [Retrieval-Augmented Generation](#retrieval-augmented-generation)
+  - [Retrieval-Augmented Generation](#retrieval-augmented-generation-1)
   - [Coding Agents](#coding-agents)
   - [Computer Use](#computer-use)
   - [Browser Automation](#browser-automation)
   - [Memory Management](#memory-management)
-  - [Testing, Evaluation, and Observability](#testing-evaluation-and-observability)
+  - [Testing, Evaluation and Observability](#testing-evaluation-and-observability)
   - [Research](#research)
   - [Training and Fine-tuning](#training-and-fine-tuning)
   - [Sandboxing](#sandboxing)
@@ -38,7 +39,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
   - [Context Engineering](#context-engineering)
   - [Inference](#inference)
   - [Agents](#agents)
-  - [Retrieval-Augmented Generation](#retrieval-augmented-generation-1)
+  - [Retrieval-Augmented Generation](#retrieval-augmented-generation-2)
   - [Miscellaneous](#miscellaneous-2)
 - [Communities](#communities)
 
@@ -188,6 +189,16 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 [Back to Table of Contents](#table-of-contents)
 
+#### Retrieval-Augmented Generation
+
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron RAG](https://huggingface.co/collections/nvidia/nemotron-rag) - a set of tools to build retrieval-augmented generation (RAG) systems, improve search and ranking accuracy, and extract structured data from complex docs
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Qwen3-Embedding](https://huggingface.co/collections/Qwen/qwen3-embedding) - a collection of the latest proprietary Qwen models, specifically designed for text embedding and ranking tasks
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Qwen3-VL-Embedding](https://huggingface.co/collections/Qwen/qwen3-vl-embedding) - an addition to the Qwen embedding models, specifically designed for multimodal information retrieval and cross-modal understanding
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Qwen3-Reranker](https://huggingface.co/collections/Qwen/qwen3-vl-reranker) - a collection of the latest proprietary Qwen models, engineered to refine embedding results
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Qwen3-VL-Reranker](https://huggingface.co/collections/Qwen/qwen3-vl-reranker) - an addition to the Qwen embedding models, specifically designed for multimodal information retrieval and cross-modal understanding
+
+[Back to Table of Contents](#table-of-contents)
+
 #### Safeguards
 
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [gpt-oss-safeguard](https://huggingface.co/collections/openai/gpt-oss-safeguard) - a collection of safety reasoning models built-upon gpt-oss
@@ -203,7 +214,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - [Jan-v3](https://huggingface.co/collections/janhq/jan-v3) - a 4B baseline model for fine-tuning, designed for downstream work: improved instruction following out of the box, strong starting point for fine-tuning and effective lightweight coding assistance
 - [Jan-v2-VL](https://huggingface.co/collections/janhq/jan-v2-vl) - a family of VLM focused on reliable, many-step task execution
-- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron RAG](https://huggingface.co/collections/nvidia/nemotron-rag) - set of tools to build retrieval-augmented generation (RAG) systems, improve search and ranking accuracy and extract structured data from complex do
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B) - a state-of-the-art 8B orchestration model designed to solve complex, multi-turn agentic tasks by coordinating a diverse set of expert models and tools
 - [Arch-Router-1.5B](https://huggingface.co/katanemo/Arch-Router-1.5B) - the fastest LLM router model that aligns to subjective usage preferences
 - [Waypoint-1](https://huggingface.co/collections/Overworld/waypoint-1) - a collection of control-and-text-conditioned causal diffusion models that can generate worlds in realtime on high-end consumer hardware
