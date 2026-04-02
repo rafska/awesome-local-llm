@@ -82,6 +82,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ## User Interfaces
 
 - <img src="https://img.shields.io/github/stars/open-webui/open-webui?style=social" height="17" align="texttop"/> [Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- <img src="https://img.shields.io/github/stars/BitWise-0x/open-webui-ultimate-stack?style=social" height="17" align="texttop"/> [Open WebUI Ultimate Stack](https://github.com/BitWise-0x/open-webui-ultimate-stack) - Production-ready Docker stack for Open WebUI with 35+ pre-built tools, RAG (pgvector), private search (SearXNG), OCR, TTS, and ComfyUI workflows
 - <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=social" height="17" align="texttop"/> [Lobe Chat](https://github.com/lobehub/lobe-chat) - an open-source, modern design AI chat framework
 - <img src="https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social" height="17" align="texttop"/> [Text generation web UI](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support
 - <img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social" height="17" align="texttop"/> [SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users
