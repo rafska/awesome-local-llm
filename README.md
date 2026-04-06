@@ -1,6 +1,7 @@
 # Awesome local LLM <img src="https://awesome.re/badge.svg"/>
 A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration, model-agnostic and compatible with local LLMs. MIT licensed.
 ## Table of Contents
 
 - [Inference platforms](#inference-platforms)
