@@ -340,6 +340,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" height="17" align="texttop"/> [cognee](https://github.com/topoteretes/cognee) - memory for AI Agents in 5 lines of code
 - <img src="https://img.shields.io/github/stars/LMCache/LMCache?style=social" height="17" align="texttop"/> [LMCache](https://github.com/LMCache/LMCache) - supercharge your LLM with the fastest KV Cache Layer
 - <img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=social" height="17" align="texttop"/> [memU](https://github.com/NevaMind-AI/memU) - an open-source memory framework for AI companions
+- <img src="https://img.shields.io/github/stars/vectorize-io/hindsight?style=social" height="17" align="texttop"/> [Hindsight](https://github.com/vectorize-io/hindsight) - state-of-the-art long-term memory for AI agents by Vectorize, fully open-source and self-hostable
 
 [Back to Table of Contents](#table-of-contents)
 
