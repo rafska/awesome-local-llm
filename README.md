@@ -98,6 +98,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Arena](https://arena.ai/) - benchmark & compare the best AI models
 - [AI Models & API Providers Analysis](https://artificialanalysis.ai/) - understand the AI landscape to choose the best model and provider for your use case
 - [SWE-rebench](https://swe-rebench.com/) - a continuously evolving and decontaminated benchmark for software engineering LLMs
+- <img src="https://img.shields.io/github/stars/petergpt/bullshit-benchmark?style=social" height="17" align="texttop"/> [BullshitBench](https://github.com/petergpt/bullshit-benchmark) - measure whether AI models challenge nonsensical prompts instead of confidently answering them
 - [LLM Explorer](https://llm-explorer.com/) - explore list of the open-source LLM models
 - [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
