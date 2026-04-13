@@ -115,6 +115,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [bartowski](https://huggingface.co/bartowski) - providing GGUF versions of popular LLMs
 - [Beijing Academy of Artificial Intelligence](https://huggingface.co/BAAI) - a private non-profit organization engaged in AI research and development
 - [Open Thoughts](https://huggingface.co/open-thoughts) - a team of researchers and engineers curating the best open reasoning datasets
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 [Back to Table of Contents](#table-of-contents)
 
