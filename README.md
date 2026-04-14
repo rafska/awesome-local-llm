@@ -3,6 +3,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Table of Contents
 
+- [Bernstein](https://github.com/chernistry/bernstein) - Multi-agent orchestrator supporting local LLMs via Ollama adapter. Run parallel coding agents fully offline with deterministic scheduling.
 - [Inference platforms](#inference-platforms)
 - [Inference engines](#inference-engines)
 - [User Interfaces](#user-interfaces)
