@@ -95,6 +95,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Explorers, Benchmarks, Leaderboards
 
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+
 - [Arena](https://arena.ai/) - benchmark & compare the best AI models
 - [AI Models & API Providers Analysis](https://artificialanalysis.ai/) - understand the AI landscape to choose the best model and provider for your use case
 - [SWE-rebench](https://swe-rebench.com/) - a continuously evolving and decontaminated benchmark for software engineering LLMs
