@@ -102,7 +102,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [LLM Explorer](https://llm-explorer.com/) - explore list of the open-source LLM models
 - [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
-- [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale 
+- [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
+- <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -122,7 +123,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### General purpose
 
-- [Qwen3.5](https://huggingface.co/collections/Qwen/qwen35) - a collection of the latest generation Qwen LLMs
+- [Qwen3.6](https://huggingface.co/collections/Qwen/qwen36) - a collection of the latest generation Qwen LLMs
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [NVIDIA Nemotron v3](https://huggingface.co/collections/nvidia/nvidia-nemotron-v3) - a family of open models from NVIDIA with open weights, training data and recipes, delivering leading efficiency and accuracy for building specialized AI agents
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [Gemma 4](https://huggingface.co/collections/google/gemma-4) - a family of open models built by Google DeepMind, that are multimodal, handling text and image input (with audio supported on small models) and generating text output
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mistral Small 4](https://huggingface.co/collections/mistralai/mistral-small-4) - A state-of-the-art model from Mistral, open-weight, with a granular Mixture-of-Experts architecture that fuses instruct, reasoning and agentic skills
