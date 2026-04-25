@@ -3,6 +3,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Table of Contents
 
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Multi-agent orchestrator supporting local LLMs via Ollama adapter. Run parallel coding agents fully offline with deterministic scheduling.
 - [Inference platforms](#inference-platforms)
 - [Inference engines](#inference-engines)
 - [User Interfaces](#user-interfaces)
@@ -30,7 +31,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
   - [Testing, Evaluation and Observability](#testing-evaluation-and-observability)
   - [Research](#research)
   - [Training and Fine-tuning](#training-and-fine-tuning)
-  - [Security and Sandboxing](#security-and-sandboxing)
+  - [Sandboxing](#sandboxing)
   - [Miscellaneous](#miscellaneous-1)
 - [Hardware](#hardware)
 - [Tutorials](#tutorials)
@@ -64,22 +65,19 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social" height="17" align="texttop"/> [sglang](https://github.com/sgl-project/sglang) - a fast serving framework for large language models and vision language models
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social" height="17" align="texttop"/> [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs
 - <img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=social" height="17" align="texttop"/> [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) - a lightweight vLLM implementation built from scratch
-- <img src="https://img.shields.io/github/stars/jundot/omlx?style=social" height="17" align="texttop"/> [omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - <img src="https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social" height="17" align="texttop"/> [koboldcpp](https://github.com/LostRuins/koboldcpp) - run GGUF models easily with a KoboldAI UI
 - <img src="https://img.shields.io/github/stars/EricLBuehler/mistral.rs?style=social" height="17" align="texttop"/> [mistral.rs](https://github.com/EricLBuehler/mistral.rs) - fast, flexible LLM inference
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/ai-dynamo/dynamo?style=social" height="17" align="texttop"/> [dynamo](https://github.com/ai-dynamo/dynamo) - a datacenter scale distributed inference serving framework
 - <img src="https://img.shields.io/github/stars/flashinfer-ai/flashinfer?style=social" height="17" align="texttop"/> [flashinfer](https://github.com/flashinfer-ai/flashinfer) - kernel library for LLM serving
-- <img src="https://img.shields.io/github/stars/ml-explore/mlx-lm?style=social" height="17" align="texttop"/> [mlx-lm](https://github.com/ml-explore/mlx-lm) - generate text and fine-tune large language models on Apple silicon with MLX
 - <img src="https://img.shields.io/github/stars/gpustack/gpustack?style=social" height="17" align="texttop"/> [gpustack](https://github.com/gpustack/gpustack) - simple, scalable AI model deployment on GPU clusters
-- <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/google-ai-edge/LiteRT-LM?style=social" height="17" align="texttop"/> [LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices
+- <img src="https://img.shields.io/github/stars/ml-explore/mlx-lm?style=social" height="17" align="texttop"/> [mlx-lm](https://github.com/ml-explore/mlx-lm) - generate text and fine-tune large language models on Apple silicon with MLX
 - <img src="https://img.shields.io/github/stars/sgl-project/mini-sglang?style=social" height="17" align="texttop"/> [mini-sglang](https://github.com/sgl-project/mini-sglang) - a lightweight yet high-performance inference framework for Large Language Models
 - <img src="https://img.shields.io/github/stars/Blaizzy/mlx-vlm?style=social" height="17" align="texttop"/> [mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX
 - <img src="https://img.shields.io/github/stars/b4rtaz/distributed-llama?style=social" height="17" align="texttop"/> [distributed-llama](https://github.com/b4rtaz/distributed-llama) - connect home devices into a powerful cluster to accelerate LLM inference
-- <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/google-ai-edge/litert?style=social" height="17" align="texttop"/> [LiteRT](https://github.com/google-ai-edge/litert) - Google's on-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
 - <img src="https://img.shields.io/github/stars/ikawrakow/ik_llama.cpp?style=social" height="17" align="texttop"/> [ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 - <img src="https://img.shields.io/github/stars/FastFlowLM/FastFlowLM?style=social" height="17" align="texttop"/> [FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - run LLMs on AMD Ryzen™ AI NPUs
-- <img src="https://img.shields.io/github/stars/brontoguana/krasis?style=social" height="17" align="texttop"/> [krasis](https://github.com/brontoguana/krasis) - a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
 - <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17" align="texttop"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
+- <img src="https://img.shields.io/github/stars/brontoguana/krasis?style=social" height="17" align="texttop"/> [krasis](https://github.com/brontoguana/krasis) - a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
 - <img src="https://img.shields.io/github/stars/intel/llm-scaler?style=social" height="17" align="texttop"/> [llm-scaler](https://github.com/intel/llm-scaler) - run LLMs on Intel Arc™ Pro B60 GPUs
 
 [Back to Table of Contents](#table-of-contents)
@@ -105,8 +103,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [LLM Explorer](https://llm-explorer.com/) - explore list of the open-source LLM models
 - [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
-- [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
-- <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
+- [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale 
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -126,7 +123,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### General purpose
 
-- [Qwen3.6](https://huggingface.co/collections/Qwen/qwen36) - a collection of the latest generation Qwen LLMs
+- [Qwen3.5](https://huggingface.co/collections/Qwen/qwen35) - a collection of the latest generation Qwen LLMs
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [NVIDIA Nemotron v3](https://huggingface.co/collections/nvidia/nvidia-nemotron-v3) - a family of open models from NVIDIA with open weights, training data and recipes, delivering leading efficiency and accuracy for building specialized AI agents
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [Gemma 4](https://huggingface.co/collections/google/gemma-4) - a family of open models built by Google DeepMind, that are multimodal, handling text and image input (with audio supported on small models) and generating text output
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mistral Small 4](https://huggingface.co/collections/mistralai/mistral-small-4) - A state-of-the-art model from Mistral, open-weight, with a granular Mixture-of-Experts architecture that fuses instruct, reasoning and agentic skills
@@ -215,7 +212,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Qwen3Guard](https://huggingface.co/collections/Qwen/qwen3guard-68d2729abbfae4716f3343a1) - a collection of safety moderation models built upon Qwen3
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [NemoGuard](https://huggingface.co/collections/nvidia/nemoguard) - a collection of models from NVIDIA for content safety, topic-following and security guardrails
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron-3-Content-Safety](https://huggingface.co/nvidia/Nemotron-3-Content-Safety) - a content-safety moderator from NVIDIA for both inputs to and responses from LLMs and VLMs
-- <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [privacy-filter](https://huggingface.co/openai/privacy-filter) - a bidirectional token-classification model from OpenAI for personally identifiable information (PII) detection and masking in text
 - [AprielGuard](https://huggingface.co/ServiceNow-AI/AprielGuard) - a safeguard model designed to detect and mitigate both safety risks and security threats in LLM interactions
 
 [Back to Table of Contents](#table-of-contents)
@@ -255,7 +251,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social" height="17" align="texttop"/> [llama_index](https://github.com/run-llama/llama_index) - the leading framework for building LLM-powered agents over your data
 - <img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social" height="17" align="texttop"/> [crewAI](https://github.com/crewAIInc/crewAI) - a framework for orchestrating role-playing, autonomous AI agents
 - <img src="https://img.shields.io/github/stars/agno-agi/agno?style=social" height="17" align="texttop"/> [agno](https://github.com/agno-agi/agno) - a full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning
-- <img src="https://img.shields.io/github/stars/badlogic/pi-mono?style=social" height="17" align="texttop"/> [pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - <img src="https://img.shields.io/github/stars/simstudioai/sim?style=social" height="17" align="texttop"/> [sim](https://github.com/simstudioai/sim) - open-source platform to build and deploy AI agent workflows
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social" height="17" align="texttop"/> [openai-agents-python](https://github.com/openai/openai-agents-python) - a lightweight, powerful framework for multi-agent workflows
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/NemoClaw?style=social" height="17" align="texttop"/> [NemoClaw](https://github.com/NVIDIA/NemoClaw) - run OpenClaw more securely inside NVIDIA OpenShell with managed inference
@@ -349,7 +344,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" height="17" align="texttop"/> [cognee](https://github.com/topoteretes/cognee) - memory for AI Agents in 5 lines of code
 - <img src="https://img.shields.io/github/stars/LMCache/LMCache?style=social" height="17" align="texttop"/> [LMCache](https://github.com/LMCache/LMCache) - supercharge your LLM with the fastest KV Cache Layer
 - <img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=social" height="17" align="texttop"/> [memU](https://github.com/NevaMind-AI/memU) - an open-source memory framework for AI companions
-- <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/google-research/reasoning-bank?style=social" height="17" align="texttop"/> [reasoning-bank](https://github.com/google-research/reasoning-bank) - a memory mechanism for agents that learns from both successful and failed trajectories, with reasoning stored as memory content
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -389,11 +383,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 [Back to Table of Contents](#table-of-contents)
 
-### Security and Sandboxing
+### Sandboxing
 
-- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/Guardrails?style=social" height="17" align="texttop"/> [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - an open-source toolkit from NVIDIA for easily adding programmable guardrails to LLM-based conversational systems
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/OpenShell?style=social" height="17" align="texttop"/> [OpenShell](https://github.com/NVIDIA/OpenShell) - the safe, private runtime for autonomous AI agents from NVIDIA
-- <img src="https://img.shields.io/github/stars/TencentCloud/CubeSandbox?style=social" height="17" align="texttop"/> [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - instant, concurrent, secure & lightweight sandbox for AI agents
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -417,7 +409,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCajiMK_CY9icRhLepS8_3ug?style=social" height="17" align="texttop"/> [Alex Ziskind](https://www.youtube.com/@AZisk) - tests of pcs, laptops, gpus etc. capable of running LLMs
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCiaQzXI5528Il6r2NNkrkJA?style=social" height="17" align="texttop"/> [Digital Spaceport](https://www.youtube.com/@DigitalSpaceport) - reviews of various builds designed for LLM inference
-- <img src="https://img.shields.io/youtube/channel/subscribers/UCP0QFok6EimQYTMj5qOLNow?style=social" height="17" align="texttop"/> [Donato Capitella](https://www.youtube.com/@donatocapitella) - practical and insightful tutorials on running LLMs locally
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCQs0lwV6E4p7LQaGJ6fgy5Q?style=social" height="17" align="texttop"/> [JetsonHacks](https://www.youtube.com/@JetsonHacks) - information about developing on NVIDIA Jetson Development Kits
 - <img src="https://img.shields.io/youtube/channel/subscribers/UC8h2Sf-yyo1WXeEUr-OHgyg?style=social" height="17" align="texttop"/> [Miyconst](https://www.youtube.com/@Miyconst) - tests of various types of hardware capable of running LLMs
 - [Kolosal - LLM Memory calculator](https://www.kolosal.ai/memory-calculator) - estimate the RAM requirements of any GGUF model instantly
