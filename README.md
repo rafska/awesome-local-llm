@@ -392,6 +392,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Security and Sandboxing
 
+- [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) - Encrypted local vault for AI agent credentials. Browser extension + MCP server (`enigmagent-mcp`) using AES-256-GCM + Argon2id. Agents use {{PLACEHOLDER}} references; secrets never leave the device.
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/Guardrails?style=social" height="17" align="texttop"/> [Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - an open-source toolkit from NVIDIA for easily adding programmable guardrails to LLM-based conversational systems
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/OpenShell?style=social" height="17" align="texttop"/> [OpenShell](https://github.com/NVIDIA/OpenShell) - the safe, private runtime for autonomous AI agents from NVIDIA
 - <img src="https://img.shields.io/github/stars/TencentCloud/CubeSandbox?style=social" height="17" align="texttop"/> [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - instant, concurrent, secure & lightweight sandbox for AI agents
