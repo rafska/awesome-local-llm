@@ -56,6 +56,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Inference engines
 
+- [OneComp](https://github.com/FujitsuResearch/OneCompression) — Fujitsu Research's PTQ framework producing LLM checkpoints for vLLM/compatible serving (QEP, AutoBit ILP mixed-precision, rotation preprocessing). Paper: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845).
+
 - <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" height="17" align="texttop"/> [ollama](https://github.com/ollama/ollama) - get up and running with LLMs
 - <img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social" height="17" align="texttop"/> [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - <img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social" height="17" align="texttop"/> [vllm](https://github.com/vllm-project/vllm) - a high-throughput and memory-efficient inference and serving engine for LLMs
