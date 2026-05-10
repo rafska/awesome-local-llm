@@ -364,6 +364,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/Giskard-AI/giskard?style=social" height="17" align="texttop"/> [giskard](https://github.com/Giskard-AI/giskard) - an open-source evaluation & testing for AI & LLM systems
 - <img src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" height="17" align="texttop"/> [agenta](https://github.com/Agenta-AI/agenta) - an open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/evaluator?style=social" height="17" align="texttop"/> [Evaluator](https://github.com/NVIDIA-NeMo/evaluator) - open-source library for scalable, reproducible evaluation of AI models and benchmarks
+- <img src="https://img.shields.io/github/stars/future-agi/future-agi?style=social" height="17" align="texttop"/> [future-agi](https://github.com/future-agi/future-agi) - an open-source self-hostable platform for evaluating, observing, and improving LLM and AI agent applications, unifying tracing, evals, simulations, datasets, gateway, and guardrails
 
 [Back to Table of Contents](#table-of-contents)
 
