@@ -504,6 +504,8 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 ### Miscellaneous
 
 - [Self-hosted AI coding that just works](https://www.reddit.com/r/LocalLLaMA/comments/1lt4y1z/selfhosted_ai_coding_that_just_works/)
+- [Beckett](https://daemonrat.com) — Self-hosted uncensored AI companion Telegram bot with local LLM (Ollama), ComfyUI selfies, mem0 memory, and Lightning payments
+
 
 [Back to Table of Contents](#table-of-contents)
 
