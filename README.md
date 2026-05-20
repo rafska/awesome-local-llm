@@ -1,4 +1,5 @@
 # Awesome local LLM <img src="https://awesome.re/badge.svg"/>
+
 A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
 
 ## Table of Contents
@@ -46,8 +47,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ## Inference platforms
 
 - [LM Studio](https://lmstudio.ai/) - discover, download and run local LLMs
-- <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" height="17" align="texttop"/> [unsloth](https://github.com/unslothai/unsloth) -  unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally
-- <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17" align="texttop"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
+- <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" height="17" align="texttop"/> [unsloth](https://github.com/unslothai/unsloth) - unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally
+- <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17" align="texttop"/> [LocalAI](https://github.com/mudler/LocalAI) - the free, open-source alternative to OpenAI, Claude and others
 - <img src="https://img.shields.io/github/stars/menloresearch/jan?style=social" height="17" align="texttop"/> [jan](https://github.com/menloresearch/jan) - an open source alternative to ChatGPT that runs 100% offline on your computer
 - <img src="https://img.shields.io/github/stars/ChatBoxAI/ChatBox?style=social" height="17" align="texttop"/> [ChatBox](https://github.com/ChatBoxAI/ChatBox) - user-friendly desktop client app for AI models/LLMs
 - <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17" align="texttop"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
@@ -78,7 +79,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/b4rtaz/distributed-llama?style=social" height="17" align="texttop"/> [distributed-llama](https://github.com/b4rtaz/distributed-llama) - connect home devices into a powerful cluster to accelerate LLM inference
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/google-ai-edge/litert?style=social" height="17" align="texttop"/> [LiteRT](https://github.com/google-ai-edge/litert) - Google's on-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
 - <img src="https://img.shields.io/github/stars/ikawrakow/ik_llama.cpp?style=social" height="17" align="texttop"/> [ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
-- <img src="https://img.shields.io/github/stars/aphrodite-engine/aphrodite-engine?style=social" height="17" align="texttop"/> [aphrodite-engine](https://github.com/aphrodite-engine/aphrodite-engine) - large-scale LLM inference engine 
+- <img src="https://img.shields.io/github/stars/aphrodite-engine/aphrodite-engine?style=social" height="17" align="texttop"/> [aphrodite-engine](https://github.com/aphrodite-engine/aphrodite-engine) - large-scale LLM inference engine
 - <img src="https://img.shields.io/github/stars/FastFlowLM/FastFlowLM?style=social" height="17" align="texttop"/> [FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - run LLMs on AMD Ryzen™ AI NPUs
 - <img src="https://img.shields.io/github/stars/brontoguana/krasis?style=social" height="17" align="texttop"/> [krasis](https://github.com/brontoguana/krasis) - a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
 - <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17" align="texttop"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
@@ -108,7 +109,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
 - [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
-- <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
+- <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) - a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -174,12 +175,12 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [GLM-Image](https://huggingface.co/zai-org/GLM-Image) - an image generation model
 - [Granite Vision](https://huggingface.co/collections/ibm-granite/granite-vision) - multimodal models from IBM built for visual document analysis and image understanding
 - [HunyuanImage](https://huggingface.co/collections/tencent/hunyuanimage) - a collection of image generation models from Tencent
-- [HunyuanVideo](https://huggingface.co/collections/tencent/hunyuanvideo) - a collection of video generation models from Tencent 
+- [HunyuanVideo](https://huggingface.co/collections/tencent/hunyuanvideo) - a collection of video generation models from Tencent
 - [Vidi](https://huggingface.co/collections/bytedance-research/vidi) - a collection of models for multimodal video understanding and creation
 - [FastVLM](https://huggingface.co/collections/apple/fastvlm-68ac97b9cd5cacefdd04872e) - a collection of VLMs with efficient vision encoding from Apple
 - [MiniCPM-o & MiniCPM-V](https://huggingface.co/collections/openbmb/minicpm-o-and-minicpm-v) - multimodal models with leading performance
 - [LFM2-VL](https://huggingface.co/collections/LiquidAI/lfm2-vl-68963bbc84a610f7638d5ffa) - a colection of vision-language models, designed for on-device deployment
-- [ClipTagger-12b](https://huggingface.co/inference-net/ClipTagger-12b) -  a vision-language model (VLM) designed for video understanding at massive scale
+- [ClipTagger-12b](https://huggingface.co/inference-net/ClipTagger-12b) - a vision-language model (VLM) designed for video understanding at massive scale
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -277,7 +278,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Model Context Protocol
 
-- <img src="https://img.shields.io/github/stars/mindsdb/mindsdb?style=social" height="17" align="texttop"/> [mindsdb](https://github.com/mindsdb/mindsdb) - federated query engine for AI - the only MCP Server you'll ever need 
+- <img src="https://img.shields.io/github/stars/mindsdb/mindsdb?style=social" height="17" align="texttop"/> [mindsdb](https://github.com/mindsdb/mindsdb) - federated query engine for AI - the only MCP Server you'll ever need
 - <img src="https://img.shields.io/github/stars/github/github-mcp-server?style=social" height="17" align="texttop"/> [github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - <img src="https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social" height="17" align="texttop"/> [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - <img src="https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social" height="17" align="texttop"/> [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
@@ -309,10 +310,10 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17" align="texttop"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - <img src="https://img.shields.io/github/stars/cline/cline?style=social" height="17" align="texttop"/> [cline](https://github.com/cline/cline) - autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way
 - <img src="https://img.shields.io/github/stars/Aider-AI/aider?style=social" height="17" align="texttop"/> [aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal
-- <img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" height="17" align="texttop"/> [tabby](https://github.com/TabbyML/tabby) -  an open-source GitHub Copilot alternative, set up your own LLM-powered code completion server
+- <img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" height="17" align="texttop"/> [tabby](https://github.com/TabbyML/tabby) - an open-source GitHub Copilot alternative, set up your own LLM-powered code completion server
 - <img src="https://img.shields.io/github/stars/continuedev/continue?style=social" height="17" align="texttop"/> [continue](https://github.com/continuedev/continue) - create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - <img src="https://img.shields.io/github/stars/voideditor/void?style=social" height="17" align="texttop"/> [void](https://github.com/voideditor/void) - an open-source Cursor alternative, use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally
-- <img src="https://img.shields.io/github/stars/block/goose?style=social" height="17" align="texttop"/> [goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions 
+- <img src="https://img.shields.io/github/stars/block/goose?style=social" height="17" align="texttop"/> [goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions
 - <img src="https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social" height="17" align="texttop"/> [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - a whole dev team of AI agents in your code editor
 - <img src="https://img.shields.io/github/stars/charmbracelet/crush?style=social" height="17" align="texttop"/> [crush](https://github.com/charmbracelet/crush) - the glamourous AI coding agent for your favourite terminal
 - <img src="https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social" height="17" align="texttop"/> [kilocode](https://github.com/Kilo-Org/kilocode) - open source AI coding assistant for planning, building, and fixing code
@@ -340,8 +341,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/microsoft/playwright?style=social" height="17" align="texttop"/> [playwright](https://github.com/microsoft/playwright) - a framework for Web Testing and Automation
 - <img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social" height="17" align="texttop"/> [browser-use](https://github.com/browser-use/browser-use) - make websites accessible for AI agents
 - <img src="https://img.shields.io/github/stars/mendableai/firecrawl?style=social" height="17" align="texttop"/> [firecrawl](https://github.com/mendableai/firecrawl) - turn entire websites into LLM-ready markdown or structured data
-- <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17" align="texttop"/> [stagehand](https://github.com/browserbase/stagehand) -  the AI Browser Automation Framework
-- <img src="https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social" height="17" align="texttop"/> [nanobrowser](https://github.com/nanobrowser/nanobrowser) -  open-source Chrome extension for AI-powered web automation
+- <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17" align="texttop"/> [stagehand](https://github.com/browserbase/stagehand) - the AI Browser Automation Framework
+- <img src="https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social" height="17" align="texttop"/> [nanobrowser](https://github.com/nanobrowser/nanobrowser) - open-source Chrome extension for AI-powered web automation
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -371,7 +372,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Research
 
-- <img src="https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=social" height="17" align="texttop"/> [Perplexica](https://github.com/ItzCrazyKns/Perplexica) -  an open-source alternative to Perplexity AI, the AI-powered search engine
+- <img src="https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=social" height="17" align="texttop"/> [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - an open-source alternative to Perplexity AI, the AI-powered search engine
 - <img src="https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social" height="17" align="texttop"/> [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - an LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations
 - <img src="https://img.shields.io/github/stars/MODSetter/SurfSense?style=social" height="17" align="texttop"/> [SurfSense](https://github.com/MODSetter/SurfSense) - an open-source alternative to NotebookLM / Perplexity / Glean
 - <img src="https://img.shields.io/github/stars/lfnovo/open-notebook?style=social" height="17" align="texttop"/> [open-notebook](https://github.com/lfnovo/open-notebook) - an open-source implementation of Notebook LM with more flexibility and features
@@ -433,6 +434,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Strix Halo AI Toolboxes](https://strix-halo-toolboxes.com/) - toolboxes for GenAI on AMD Ryzen AI MAX+: containerized environments for LLMs, Image Generation, and Fine-tuning
 - [Strix Halo Wiki](https://strixhalo.wiki/) - a website to gather important information and practical guides for systems powered by AMD Ryzen AI MAX and MAX+ processors
 - <img src="https://img.shields.io/github/stars/paudley/ai-notes?style=social" height="17" align="texttop"/> [ai-notes](https://github.com/paudley/ai-notes) - random AI notes for working with local models or playing around with random machine learning bits
+- <img src="https://img.shields.io/github/stars/essentialols/48gb-vram-llm-guide?style=social" height="17" align="texttop"/> [48GB VRAM LLM Playbook](https://github.com/essentialols/48gb-vram-llm-guide) - community-driven guide for 48GB VRAM setups: model selection, quantization configs, multi-GPU strategies, and real benchmarks aggregated from r/LocalLLaMA
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -445,7 +447,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/youtube/views/jrJKRYAdh7I?style=social" height="17" align="texttop"/> [Knowledge Distillation: How LLMs train each other](https://www.youtube.com/watch?v=jrJKRYAdh7I)
 - <img src="https://img.shields.io/github/stars/iuliaturc/gguf-docs?style=social" height="17" align="texttop"/> [gguf-docs](https://github.com/iuliaturc/gguf-docs) - Docs for GGUF quantization (unofficial)
 - <img src="https://img.shields.io/badge/arXiv-%2525?logo=arxiv&logoColor=white&labelColor=%23B31B1B&color=black" height="17" align="texttop"/> [Embarrassingly Simple Self-Distillation
-Improves Code Generation](https://arxiv.org/pdf/2604.01193)
+  Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 
 [Back to Table of Contents](#table-of-contents)
 
