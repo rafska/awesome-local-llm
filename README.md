@@ -364,6 +364,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/Giskard-AI/giskard?style=social" height="17" align="texttop"/> [giskard](https://github.com/Giskard-AI/giskard) - an open-source evaluation & testing for AI & LLM systems
 - <img src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" height="17" align="texttop"/> [agenta](https://github.com/Agenta-AI/agenta) - an open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/evaluator?style=social" height="17" align="texttop"/> [Evaluator](https://github.com/NVIDIA-NeMo/evaluator) - open-source library for scalable, reproducible evaluation of AI models and benchmarks
+- <img src="https://img.shields.io/github/stars/future-agi/traceAI?style=social" height="17" align="texttop"/> [traceAI](https://github.com/future-agi/traceAI) - open-source OpenTelemetry-native tracing framework that auto-instruments 20+ AI frameworks and LLM providers, capturing prompts, tokens, latency, and errors out of the box
+- <img src="https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social" height="17" align="texttop"/> [ai-evaluation](https://github.com/future-agi/ai-evaluation) - open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, guardrail scanners (jailbreak, PII, injection), and AutoEval pipelines
 
 [Back to Table of Contents](#table-of-contents)
 
