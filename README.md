@@ -419,6 +419,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/gabber-dev/gabber?style=social" height="17" align="texttop"/> [gabber](https://github.com/gabber-dev/gabber) - build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs
 - <img src="https://img.shields.io/github/stars/sevenreasons/promptcat?style=social" height="17" align="texttop"/> [promptcat](https://github.com/sevenreasons/promptcat) - a zero-dependency prompt manager/catalog/library in a single HTML file
 
+- <img src="https://img.shields.io/github/stars/Inebrio/Routerly?style=social" height="17" align="texttop"/> [Routerly](https://github.com/Inebrio/Routerly) - self-hosted OpenAI/Anthropic-compatible LLM gateway with 9-policy intelligent routing, budget enforcement, project isolation, CLI, dashboard, and Docker support
+
 [Back to Table of Contents](#table-of-contents)
 
 ## Hardware
