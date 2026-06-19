@@ -147,6 +147,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Step-3.5-Flash](https://huggingface.co/stepfun-ai/Step-3.5-Flash) - most capable open-source foundation model, engineered to deliver frontier reasoning and agentic capabilities with exceptional efficiency
 - [Rio-3.5-Open-397B](https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B) - a frontier-class general-purpose AI model post-trained from Qwen 3.5 397B
 - [Nex-N2](https://huggingface.co/collections/nex-agi/nex-n2) - a collection of agent models built for real-world productivity scenarios
+- [Kisoku-3.2b](https://huggingface.co/0arch-io/Kisoku-3.2b) - a 3.2B parameter model trained from scratch on consumer hardware, built on Granite architecture and fine-tuned for structured reasoning
 
 [Back to Table of Contents](#table-of-contents)
 
