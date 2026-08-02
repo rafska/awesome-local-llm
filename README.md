@@ -443,6 +443,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/youtube/channel/subscribers/UC8h2Sf-yyo1WXeEUr-OHgyg?style=social" height="17" align="texttop"/> [Miyconst](https://www.youtube.com/@Miyconst) - tests of various types of hardware capable of running LLMs
 - [Kolosal - LLM Memory calculator](https://www.kolosal.ai/memory-calculator) - estimate the RAM requirements of any GGUF model instantly
 - [LLM Inference VRAM & GPU Requirement Calculator](https://app.linpp2009.com/en/llm-gpu-memory-calculator) - calculate how many GPUs you need to deploy LLMs
+- [The AI Bench](https://theaibench.ai) - a planner that maps local models to your hardware (VRAM/unified memory + use case → picks, runner, quant, expected tok/s), with a free JSON API and a `uvx theaibench` CLI
 - <img src="https://img.shields.io/github/stars/vosen/ZLUDA?style=social" height="17" align="texttop"/> [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [Strix Halo AI Toolboxes](https://strix-halo-toolboxes.com/) - toolboxes for GenAI on AMD Ryzen AI MAX+: containerized environments for LLMs, Image Generation, and Fine-tuning
 - [Strix Halo Wiki](https://strixhalo.wiki/) - a website to gather important information and practical guides for systems powered by AMD Ryzen AI MAX and MAX+ processors
