@@ -359,6 +359,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Memory Management
 
 - <img src="https://img.shields.io/github/stars/mem0ai/mem0?style=social" height="17" align="texttop"/> [mem0](https://github.com/mem0ai/mem0) - universal memory layer for AI Agents
+- <img src="https://img.shields.io/github/stars/codecoradev/uteke?style=social" height="17" align="texttop" /> [uteke](https://github.com/codecoradev/uteke) - offline-first semantic memory engine for AI agents, single Rust binary, zero dependencies
 - <img src="https://img.shields.io/github/stars/milla-jovovich/mempalace?style=social" height="17" align="texttop"/> [mempalace](https://github.com/milla-jovovich/mempalace) - the highest-scoring AI memory system ever benchmarked
 - <img src="https://img.shields.io/github/stars/letta-ai/letta?style=social" height="17" align="texttop"/> [letta](https://github.com/letta-ai/letta) - the stateful agents framework with memory, reasoning, and context management
 - <img src="https://img.shields.io/github/stars/supermemoryai/supermemory?style=social" height="17" align="texttop"/> [supermemory](https://github.com/supermemoryai/supermemory) - memory engine and app that is extremely fast, scalable
