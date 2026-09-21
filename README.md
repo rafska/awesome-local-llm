@@ -538,3 +538,6 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 # Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started.
+
+
+- [Neurofunnel](https://github.com/wolowizardnft2022/neurofunnel) - Local-first autonomous AI agent with a 6-path model compression funnel, persistent memory, and 80+ tools (Ollama-first).
