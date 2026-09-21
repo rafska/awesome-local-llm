@@ -109,6 +109,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
 - [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
+- [tinymodels.co](https://tinymodels.co) - a curated catalogue of tiny open-source models (text, vision, audio, video) where every download states its sha256 and every model carries one measured latency figure, same machine, same method; the full [measured dataset](https://tinymodels.co/measurements) is published per run
 - <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
 
 [Back to Table of Contents](#table-of-contents)
