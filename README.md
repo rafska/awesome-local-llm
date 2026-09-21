@@ -330,6 +330,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/humanlayer/humanlayer?style=social" height="17" align="texttop"/> [humanlayer](https://github.com/humanlayer/humanlayer) - the best way to get AI coding agents to solve hard problems in complex codebases
 - <img src="https://img.shields.io/github/stars/ThePrimeagen/99?style=social" height="17" align="texttop"/> [99](https://github.com/ThePrimeagen/99) - neovim AI agent done right
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17" align="texttop"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
+- <img src="https://img.shields.io/github/stars/nicedreamzapp/claude-code-local?style=social" height="17" align="texttop"/> [claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - run Claude Code fully on-device on Apple Silicon through a local MLX server that speaks the Anthropic Messages API
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -353,6 +354,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/mendableai/firecrawl?style=social" height="17" align="texttop"/> [firecrawl](https://github.com/mendableai/firecrawl) - turn entire websites into LLM-ready markdown or structured data
 - <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17" align="texttop"/> [stagehand](https://github.com/browserbase/stagehand) -  the AI Browser Automation Framework
 - <img src="https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social" height="17" align="texttop"/> [nanobrowser](https://github.com/nanobrowser/nanobrowser) -  open-source Chrome extension for AI-powered web automation
+- <img src="https://img.shields.io/github/stars/nicedreamzapp/browser-agent?style=social" height="17" align="texttop"/> [browser-agent](https://github.com/nicedreamzapp/browser-agent) - a local browser agent on Apple Silicon that drives a real browser over the Chrome DevTools Protocol with MLX models, no cloud APIs
 
 [Back to Table of Contents](#table-of-contents)
 
