@@ -444,8 +444,11 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCP0QFok6EimQYTMj5qOLNow?style=social" height="17" align="texttop"/> [Donato Capitella](https://www.youtube.com/@donatocapitella) - practical and insightful tutorials on running LLMs locally
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCQs0lwV6E4p7LQaGJ6fgy5Q?style=social" height="17" align="texttop"/> [JetsonHacks](https://www.youtube.com/@JetsonHacks) - information about developing on NVIDIA Jetson Development Kits
 - <img src="https://img.shields.io/youtube/channel/subscribers/UC8h2Sf-yyo1WXeEUr-OHgyg?style=social" height="17" align="texttop"/> [Miyconst](https://www.youtube.com/@Miyconst) - tests of various types of hardware capable of running LLMs
+- [Apple Silicon LLM Benchmarks by Macyou](https://macyou.co/benchmarks) - measured Ollama tokens/sec per model on Apple Silicon Macs (base M4 Mac mini to start), with methodology and raw per-run JSON under CC BY 4.0
 - [Kolosal - LLM Memory calculator](https://www.kolosal.ai/memory-calculator) - estimate the RAM requirements of any GGUF model instantly
 - [LLM Inference VRAM & GPU Requirement Calculator](https://app.linpp2009.com/en/llm-gpu-memory-calculator) - calculate how many GPUs you need to deploy LLMs
+- [Mac LLM Calculator](https://macyou.co/mac-llm-calculator) - unified memory needed and expected tokens/sec for any model on any Apple Silicon chip (M1 to M6), from a speed model fitted to measured benchmarks
+- [Local LLM Hardware Compared](https://macyou.co/compare/local-llm-hardware) - Apple Silicon vs NVIDIA GPUs vs 128 GB unified memory boxes (DGX Spark, Strix Halo) with one speed model applied to all of them
 - <img src="https://img.shields.io/github/stars/vosen/ZLUDA?style=social" height="17" align="texttop"/> [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [Strix Halo AI Toolboxes](https://strix-halo-toolboxes.com/) - toolboxes for GenAI on AMD Ryzen AI MAX+: containerized environments for LLMs, Image Generation, and Fine-tuning
 - [Strix Halo Wiki](https://strixhalo.wiki/) - a website to gather important information and practical guides for systems powered by AMD Ryzen AI MAX and MAX+ processors
