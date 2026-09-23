@@ -55,6 +55,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 [Back to Table of Contents](#table-of-contents)
 
 ## Inference engines
+- [SuperL8 Serve](https://github.com/jajmangold/superl8-serve) - OpenAI-compatible INT8 inference server for Volta/CMP GPUs using DP4A kernels. Continuous batching, CUDA graphs, speculative decode, native GGUF loading.
 
 - <img src="https://img.shields.io/github/stars/ollama/ollama?style=social" height="17" align="texttop"/> [ollama](https://github.com/ollama/ollama) - get up and running with LLMs
 - <img src="https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social" height="17" align="texttop"/> [llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
