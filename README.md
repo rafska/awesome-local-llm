@@ -84,6 +84,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/brontoguana/krasis?style=social" height="17" align="texttop"/> [krasis](https://github.com/brontoguana/krasis) - a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
 - <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17" align="texttop"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
 - <img src="https://img.shields.io/github/stars/intel/llm-scaler?style=social" height="17" align="texttop"/> [llm-scaler](https://github.com/intel/llm-scaler) - run LLMs on Intel Arc™ Pro B60 GPUs
+- <img src="https://img.shields.io/github/stars/nobodywho-ooo/nobodywho?style=social" height="17" align="texttop"/> [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) - embed local LLMs directly in games and apps, with bindings for Godot, Flutter, React Native and Swift
 
 [Back to Table of Contents](#table-of-contents)
 
