@@ -525,6 +525,7 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 ### Miscellaneous
 
 - <img src="https://img.shields.io/github/stars/jamesob/local-llm?style=social" height="17" align="texttop"/> [local-llm](https://github.com/jamesob/local-llm) - everything jamesob knows about running LLMs locally
+- <img src="https://img.shields.io/github/stars/xiaoxianxian/qwen3.8-deployment?style=social" height="17" align="texttop"/> [Qwen3.8 Local Deployment (Mac / Apple Silicon)](https://github.com/xiaoxianxian/qwen3.8-deployment) - a complete, battle-tested guide to running Qwen3.8-27B locally on macOS Apple Silicon (M1–M5) with Ollama + MLX/GGUF quantization, MTP speculative decoding, and China-mirror downloads. Includes an English README.
 - [Self-hosted AI coding that just works](https://www.reddit.com/r/LocalLLaMA/comments/1lt4y1z/selfhosted_ai_coding_that_just_works/)
 
 [Back to Table of Contents](#table-of-contents)
