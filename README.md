@@ -436,7 +436,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/minitap-ai/mobile-use?style=social" height="17" align="texttop"/> [mobile-use](https://github.com/minitap-ai/mobile-use) - a powerful, open-source AI agent that controls your Android or IOS device using natural language
 - <img src="https://img.shields.io/github/stars/gabber-dev/gabber?style=social" height="17" align="texttop"/> [gabber](https://github.com/gabber-dev/gabber) - build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs
 - <img src="https://img.shields.io/github/stars/sevenreasons/promptcat?style=social" height="17" align="texttop"/> [promptcat](https://github.com/sevenreasons/promptcat) - a zero-dependency prompt manager/catalog/library in a single HTML file
-- <img src="https://img.shields.io/github/stars/expilu/smart-decisions?style=social" height="17" align="texttop"/> [smart-decisions](https://github.com/expilu/smart-decisions) - typed decisions with confidence scores from the local LLM you already serve — per-option probabilities from logprobs, no extra model (TypeScript)
+- <img src="https://img.shields.io/github/stars/expilu/smart-decisions?style=social" height="17" align="texttop"/> [smart-decisions](https://github.com/expilu/smart-decisions) - typed decisions with confidence scores from any LLM, including local ones you already use (TypeScript)
 
 [Back to Table of Contents](#table-of-contents)
 
