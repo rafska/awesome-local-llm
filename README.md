@@ -436,6 +436,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/minitap-ai/mobile-use?style=social" height="17" align="texttop"/> [mobile-use](https://github.com/minitap-ai/mobile-use) - a powerful, open-source AI agent that controls your Android or IOS device using natural language
 - <img src="https://img.shields.io/github/stars/gabber-dev/gabber?style=social" height="17" align="texttop"/> [gabber](https://github.com/gabber-dev/gabber) - build AI applications that can see, hear, and speak using your screens, microphones, and cameras as inputs
 - <img src="https://img.shields.io/github/stars/sevenreasons/promptcat?style=social" height="17" align="texttop"/> [promptcat](https://github.com/sevenreasons/promptcat) - a zero-dependency prompt manager/catalog/library in a single HTML file
+- <img src="https://img.shields.io/github/stars/Muurrcc/FelixIAMinecraft?style=social" height="17" align="texttop"/> [FelixIAMinecraft](https://github.com/Muurrcc/FelixIAMinecraft) - a local AI companion that plays Minecraft with you, running Andy-4 in Ollama with a live dashboard of its reasoning
 
 [Back to Table of Contents](#table-of-contents)
 
