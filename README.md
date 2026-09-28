@@ -106,6 +106,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [SWE-rebench](https://swe-rebench.com/) - a continuously evolving and decontaminated benchmark for software engineering LLMs
 - <img src="https://img.shields.io/github/stars/petergpt/bullshit-benchmark?style=social" height="17" align="texttop"/> [BullshitBench](https://github.com/petergpt/bullshit-benchmark) - measure whether AI models challenge nonsensical prompts instead of confidently answering them
 - [LLM Explorer](https://llm-explorer.com/) - explore list of the open-source LLM models
+- [Open-Weight AI Models Compared](https://ownyourmind.ai/resources/open-weight-model-comparison/) - open-weight LLMs for local inference compared on licence, RAM needs and Ollama tags, updated monthly
 - [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
 - [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
