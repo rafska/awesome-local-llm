@@ -441,6 +441,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Hardware
 
+- <img src="https://img.shields.io/github/stars/DangerousANEN/llm-vram-calculator?style=social" height="17" align="texttop"/> [llm-vram-calc](https://github.com/DangerousANEN/llm-vram-calculator) - zero-dependency CLI VRAM + KV-cache calculator for LLM quantizations: fits/OOM verdict, GPU offload layers, max context estimation (also as a web tool: https://ai.zxc1x1.ru/tools/vram/)
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCajiMK_CY9icRhLepS8_3ug?style=social" height="17" align="texttop"/> [Alex Ziskind](https://www.youtube.com/@AZisk) - tests of pcs, laptops, gpus etc. capable of running LLMs
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCiaQzXI5528Il6r2NNkrkJA?style=social" height="17" align="texttop"/> [Digital Spaceport](https://www.youtube.com/@DigitalSpaceport) - reviews of various builds designed for LLM inference
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCP0QFok6EimQYTMj5qOLNow?style=social" height="17" align="texttop"/> [Donato Capitella](https://www.youtube.com/@donatocapitella) - practical and insightful tutorials on running LLMs locally
