@@ -441,6 +441,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Hardware
 
+- [GraphicCardPrices — GPU price by VRAM](https://graphiccardprices.com/gpu-price-by-vram/) - observed Amazon US GPU offers grouped by VRAM, with sample counts, median prices, timestamps, and affiliate disclosure
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCajiMK_CY9icRhLepS8_3ug?style=social" height="17" align="texttop"/> [Alex Ziskind](https://www.youtube.com/@AZisk) - tests of pcs, laptops, gpus etc. capable of running LLMs
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCiaQzXI5528Il6r2NNkrkJA?style=social" height="17" align="texttop"/> [Digital Spaceport](https://www.youtube.com/@DigitalSpaceport) - reviews of various builds designed for LLM inference
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCP0QFok6EimQYTMj5qOLNow?style=social" height="17" align="texttop"/> [Donato Capitella](https://www.youtube.com/@donatocapitella) - practical and insightful tutorials on running LLMs locally
