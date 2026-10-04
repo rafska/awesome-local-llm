@@ -259,6 +259,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/dottxt-ai/outlines?style=social" height="17" align="texttop"/> [outlines](https://github.com/dottxt-ai/outlines) - structured outputs for LLMs
 - <img src="https://img.shields.io/github/stars/mostlygeek/llama-swap?style=social" height="17" align="texttop"/> [llama-swap](https://github.com/mostlygeek/llama-swap) - reliable model swapping for any local OpenAI compatible server - llama.cpp, vllm, etc.
 - <img src="https://img.shields.io/github/stars/guidance-ai/llguidance?style=social" height="17" align="texttop"/> [llguidance](https://github.com/guidance-ai/llguidance) - super-fast structured outputs
+- <img src="https://img.shields.io/github/stars/Arthur031221/llm-doctor?style=social" height="17" align="texttop"/> [llm-doctor](https://github.com/Arthur031221/llm-doctor) - brew doctor for local LLMs: dedupes Ollama, LM Studio, HF and MLX weights, catches stale templates, probes agent endpoints
+- <img src="https://img.shields.io/github/stars/Arthur031221/ollama-verify?style=social" height="17" align="texttop"/> [ollama-verify](https://github.com/Arthur031221/ollama-verify) - read-only integrity and storage audit for local Ollama models
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -382,6 +384,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/Giskard-AI/giskard?style=social" height="17" align="texttop"/> [giskard](https://github.com/Giskard-AI/giskard) - an open-source evaluation & testing for AI & LLM systems
 - <img src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" height="17" align="texttop"/> [agenta](https://github.com/Agenta-AI/agenta) - an open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/evaluator?style=social" height="17" align="texttop"/> [Evaluator](https://github.com/NVIDIA-NeMo/evaluator) - open-source library for scalable, reproducible evaluation of AI models and benchmarks
+- <img src="https://img.shields.io/github/stars/Arthur031221/gpuwait?style=social" height="17" align="texttop"/> [gpuwait](https://github.com/Arthur031221/gpuwait) - measures idle time while replaying requests against a local LLM server (Ollama, llama-server, vLLM, LM Studio)
 
 [Back to Table of Contents](#table-of-contents)
 
