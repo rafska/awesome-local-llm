@@ -439,6 +439,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/sevenreasons/promptcat?style=social" height="17" align="texttop"/> [promptcat](https://github.com/sevenreasons/promptcat) - a zero-dependency prompt manager/catalog/library in a single HTML file
 
 [Back to Table of Contents](#table-of-contents)
+- <img src="https://img.shields.io/github/stars/ipanalytics/Agent-Cron-Evals?style=social" height="17" align="texttop"/> [Agent-Cron-Evals](https://github.com/ipanalytics/Agent-Cron-Evals) - deterministic checks for scheduled agent jobs: did it run, did the output arrive, is the watchdog alive
+- <img src="https://img.shields.io/github/stars/ipanalytics/Git-Secret-Gate?style=social" height="17" align="texttop"/> [Git-Secret-Gate](https://github.com/ipanalytics/Git-Secret-Gate) - a pre-commit and pre-push gate that stops a credential, a key file or a destructive command before it leaves the machine; no network, no model
+- <img src="https://img.shields.io/github/stars/ipanalytics/Hermes-Plugin-Pack?style=social" height="17" align="texttop"/> [Hermes-Plugin-Pack](https://github.com/ipanalytics/Hermes-Plugin-Pack) - plugins for a self-hosted LLM agent: sandboxed shell, automatic skill drafting, feedback journaling and context compaction
 
 ## Hardware
 
