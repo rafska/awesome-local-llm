@@ -335,6 +335,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/openchamber/openchamber?style=social" height="17" align="texttop"/> [openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - <img src="https://img.shields.io/github/stars/ThePrimeagen/99?style=social" height="17" align="texttop"/> [99](https://github.com/ThePrimeagen/99) - neovim AI agent done right
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17" align="texttop"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
+- <img src="https://img.shields.io/github/stars/twinnydotdev/twinny?style=social" height="17" align="texttop"/> [twinny](https://github.com/twinnydotdev/twinny) - a local-first AI coding assistant for VS Code with code completion, chat, inline edits and code review on Ollama, llama.cpp, LM Studio or any OpenAI-compatible server
 
 [Back to Table of Contents](#table-of-contents)
 
