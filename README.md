@@ -349,6 +349,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/MiniMax-AI/OpenRoom?style=social" height="17" align="texttop"/> [OpenRoom](https://github.com/MiniMax-AI/OpenRoom) - a browser-based desktop where AI Agent operates every app through natural language, from MiniMaxAI
 
 [Back to Table of Contents](#table-of-contents)
+- <img src="https://img.shields.io/github/stars/openamer/openamer?style=social" height="17" align="texttop"/> [OpenAmer](https://github.com/openamer/openamer) - Windows-native autonomous agent that runs its cognition in-process (five native tools) and drives the real desktop — filesystem, terminal, GUI and browser over the Chrome DevTools Protocol — entirely locally; one 10-subsystem heartbeat replaces a cron pile and an A2A mesh routes work peer-to-peer.
 
 ### Browser Automation
 
