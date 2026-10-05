@@ -237,6 +237,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### Miscellaneous
 
+- [DecisionTune 1.0](https://huggingface.co/decision-tune/decisiontune-1.0) - a 395M decision model that picks one option from a list, or gives an uncalibrated P(yes) score, offline on CPU, MLX or ONNX
 - [GLiNER2.5](https://huggingface.co/collections/fastino/gliner25-models) - a collection of models for schema-driven information extraction and classification
 - [Intern-S2](https://huggingface.co/collections/internlm/intern-s2) - a collection of multimodal foundation models for scientific intelligence and long-horizon agents
 - [Holo4](https://huggingface.co/collections/Hcompany/holo4) - a collection of Visual Language Models for computer/mobile use, tool calls, and code
