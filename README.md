@@ -412,6 +412,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/e-p-armstrong/augmentoolkit?style=social" height="17" align="texttop"/> [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - train an open-source LLM on new facts
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/gym?style=social" height="17" align="texttop"/> [Gym](https://github.com/NVIDIA-NeMo/gym) - evaluate and improve models and agents using environments
 - <img src="https://img.shields.io/github/stars/sgl-project/SpecForge?style=social" height="17" align="texttop"/> [SpecForge](https://github.com/sgl-project/SpecForge) - train speculative decoding models effortlessly and port them smoothly to SGLang serving
+- <img src="https://img.shields.io/github/stars/Viavcious-cloud/vivacious-cli?style=social" height="17" align="texttop"/> [vivacious-cli](https://github.com/Viavcious-cloud/vivacious-cli) - zero-code multi-cloud training orchestrator with preflight VRAM guards and spot GPU arbitrage
 
 [Back to Table of Contents](#table-of-contents)
 
