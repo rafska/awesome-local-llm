@@ -1,4 +1,6 @@
 # Awesome local LLM <img src="https://awesome.re/badge.svg"/>
+- [DeeWaanAI Serve](https://github.com/DeeWaanAI/deewaanai-serve) - Run/serves Mixture-of-Experts LLMs on Apple Silicon laptops (MLX). Open research code + paper; up to ~2x concurrent users vs llama.cpp when the model is small relative to RAM. Proof of concept, AGPL-3.0.
+
 A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally
 
 ## Table of Contents
