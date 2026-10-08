@@ -84,6 +84,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/brontoguana/krasis?style=social" height="17" align="texttop"/> [krasis](https://github.com/brontoguana/krasis) - a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
 - <img src="https://img.shields.io/github/stars/intel/llm-scaler?style=social" height="17" align="texttop"/> [llm-scaler](https://github.com/intel/llm-scaler) - run LLMs on Intel Arc™ Pro B60 and B70 GPUs
 - <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17" align="texttop"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
+- <img src="https://img.shields.io/github/stars/townsendmerino/goinfer?style=social" height="17" align="texttop"/> [goinfer](https://github.com/townsendmerino/goinfer) - pure-Go, no-cgo LLM inference from safetensors or GGUF on CPU, CUDA and Metal, as a Go library or a single static binary with an OpenAI/Anthropic-compatible server
 
 [Back to Table of Contents](#table-of-contents)
 
