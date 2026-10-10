@@ -248,6 +248,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Hunyuan3D](https://huggingface.co/collections/tencent/hunyuan3d) - a collection of everything related (models, datasets etc.) to 3D assets generation from Tencent
 - [Hunyuan-GameCraft-1.0](https://huggingface.co/tencent/Hunyuan-GameCraft-1.0) - a novel framework for high-dynamic interactive video generation in game environments
 - [void-model](https://huggingface.co/netflix/void-model) - a model from Netflix that removes objects from videos along with all interactions they induce on the scene — not just secondary effects like shadows and reflections, but physical interactions like objects falling when a person is removed
+- [Phocinae-Largha-150M-v1](https://huggingface.co/Phocinae/Phocinae-Largha-150M-v1) - a 144.3M bilingual (English/Chinese) typed decision model on mmBERT-small that returns calibrated Choice, Score and Noul probabilities in one forward pass; runs locally on CPU or GPU with no text generation
 
 [Back to Table of Contents](#table-of-contents)
 
