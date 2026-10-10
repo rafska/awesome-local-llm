@@ -264,6 +264,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Agent Frameworks
 
+- <img src="https://img.shields.io/github/stars/kortix-ai/suna?style=social" height="17" align="texttop"/> [Kortix](https://kortix.com) - an open-source AI Operating System: a self-hostable agent platform where agents, skills, memory and connector configuration live as files in one git repo you own, running any model with your own keys
+
 - <img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" height="17" align="texttop"/> [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows
 - <img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social" height="17" align="texttop"/> [langflow](https://github.com/langflow-ai/langflow) - a powerful tool for building and deploying AI-powered agents and workflows
 - <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" height="17" align="texttop"/> [langchain](https://github.com/langchain-ai/langchain) - build context-aware reasoning applications
