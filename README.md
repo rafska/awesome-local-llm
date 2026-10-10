@@ -238,6 +238,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 #### Miscellaneous
 
 - [WaterSheep](https://huggingface.co/samratduttaofficial/WaterSheep) - an open alternative to Jev that answers yes/no, choice, rating and multi-label questions about text with calibrated probabilities, locally or in the browser
+- [GLiNER2.5](https://huggingface.co/collections/fastino/gliner25-models) - a collection of models for schema-driven information extraction and classification
 - [Intern-S2](https://huggingface.co/collections/internlm/intern-s2) - a collection of multimodal foundation models for scientific intelligence and long-horizon agents
 - [Holo4](https://huggingface.co/collections/Hcompany/holo4) - a collection of Visual Language Models for computer/mobile use, tool calls, and code
 - [Marco-MoE](https://huggingface.co/collections/AIDC-AI/marco-moe) - a suit of multilingual MoE models with highly-sparse architectures
