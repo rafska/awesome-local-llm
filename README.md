@@ -256,6 +256,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Models
 
 - <img src="https://img.shields.io/github/stars/AlexsJones/llmfit?style=social" height="17" align="texttop"/> [llmfit](https://github.com/AlexsJones/llmfit) - hundreds of models & providers, one command to find what runs on your hardware
+- [LLM Memory Calculator](https://www.merasaas.com/tools/llm-memory-calculator) - estimate the memory a model needs for weights, KV cache and fine-tuning at any parameter count, quantization and context length, in the browser
 - <img src="https://img.shields.io/github/stars/dottxt-ai/outlines?style=social" height="17" align="texttop"/> [outlines](https://github.com/dottxt-ai/outlines) - structured outputs for LLMs
 - <img src="https://img.shields.io/github/stars/mostlygeek/llama-swap?style=social" height="17" align="texttop"/> [llama-swap](https://github.com/mostlygeek/llama-swap) - reliable model swapping for any local OpenAI compatible server - llama.cpp, vllm, etc.
 - <img src="https://img.shields.io/github/stars/guidance-ai/llguidance?style=social" height="17" align="texttop"/> [llguidance](https://github.com/guidance-ai/llguidance) - super-fast structured outputs
