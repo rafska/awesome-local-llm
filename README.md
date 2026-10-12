@@ -364,6 +364,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/microsoft/playwright?style=social" height="17" align="texttop"/> [playwright](https://github.com/microsoft/playwright) - a framework for Web Testing and Automation
 - <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17" align="texttop"/> [stagehand](https://github.com/browserbase/stagehand) -  the AI Browser Automation Framework
 - <img src="https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social" height="17" align="texttop"/> [nanobrowser](https://github.com/nanobrowser/nanobrowser) -  open-source Chrome extension for AI-powered web automation
+- <img src="https://img.shields.io/github/stars/LucasDantas2701/ANCHOR?style=social" height="17" align="texttop"/> [ANCHOR](https://github.com/LucasDantas2701/ANCHOR) - web automation from plain-language tasks: a local LLM only plans, while a heuristic clicks and asks you when unsure
 
 [Back to Table of Contents](#table-of-contents)
 
