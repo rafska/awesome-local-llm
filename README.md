@@ -111,6 +111,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
 - <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/swe-serve?style=social" height="17" align="texttop"/> [swe-serve](https://github.com/NVIDIA/swe-serve) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
+- [TokenMark](https://tokenmark.app/) - measured local LLM speeds (tok/s, quant, backend) on Strix Halo, DGX Spark and Apple Silicon, each row linked to its source
 
 [Back to Table of Contents](#table-of-contents)
 
