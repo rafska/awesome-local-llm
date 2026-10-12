@@ -45,6 +45,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ## Inference platforms
 
+- [DeeWaanAI Serve](https://github.com/DeeWaanAI/deewaanai-serve) - Run/serves Mixture-of-Experts LLMs on Apple Silicon laptops (MLX). Open research code + paper; up to ~2x concurrent users vs llama.cpp when the model is small relative to RAM. Proof of concept, AGPL-3.0.
+
 - [LM Studio](https://lmstudio.ai/) - discover, download and run local LLMs
 - <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" height="17" align="texttop"/> [unsloth](https://github.com/unslothai/unsloth) -  unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally
 - <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17" align="texttop"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
