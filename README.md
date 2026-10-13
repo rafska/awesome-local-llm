@@ -164,6 +164,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [SWE-FastContext](https://huggingface.co/collections/microsoft/swe-fastcontext) - a family of code-search models from Microsoft powering the Explore subagent for coding agents
 - [AesCode-32B](https://huggingface.co/microsoft/AesCode-32B) & [AesCode-8B](https://huggingface.co/microsoft/AesCode-8B) - models from Microsoft that generates information-rich visual artifacts such as slides, posters, and dashboards as HTML/CSS
 - [MusaCoder-27B](https://huggingface.co/MooreThreads/MusaCoder-27B) - a code model developed by Moore Threads for PyTorch-to-CUDA/MUSA native kernel generation
+- [SwarmDo-A1](https://huggingface.co/SwarmDo/SwarmDo-A1) - an open, self-hostable multimodal coding model, shipped as a LoRA adapter on Qwen3.6-27B, that verifies patches by executing the project's tests
 
 [Back to Table of Contents](#table-of-contents)
 
