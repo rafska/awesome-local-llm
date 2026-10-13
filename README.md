@@ -502,6 +502,7 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 ### Inference
 
 - <img src="https://img.shields.io/github/stars/vllm-project/production-stack?style=social" height="17" align="texttop"/> [vLLM Production Stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization
+- <img src="https://img.shields.io/badge/Apple%20Silicon-%23000000?logo=apple&logoColor=white" height="17" align="texttop"/> [oMLX on M5 Max: install, tune and benchmark](https://jacar.es/en/how-to-install-and-tune-omlx-on-m5-max-128-gb/) - hands-on guide to serving MLX models with oMLX on Apple Silicon, with measured speedups from Lightning MTP, VLM MTP and DFlash and the settings that matter
 
 [Back to Table of Contents](#table-of-contents)
 
