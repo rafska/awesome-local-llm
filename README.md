@@ -502,6 +502,7 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 ### Inference
 
 - <img src="https://img.shields.io/github/stars/vllm-project/production-stack?style=social" height="17" align="texttop"/> [vLLM Production Stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization
+- [GGUF Quantization Explained](https://axiomi.si/guides/gguf-quantization-explained.html) - what Q4_K_M, Q8_0 and IQ quant names mean, real bits-per-weight by quant type, GGUF vs safetensors, and how to pick the right file
 
 [Back to Table of Contents](#table-of-contents)
 
