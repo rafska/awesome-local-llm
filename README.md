@@ -323,6 +323,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/vanna-ai/vanna?style=social" height="17" align="texttop"/> [vanna](https://github.com/vanna-ai/vanna) - an open-source Python RAG framework for SQL generation and related functionality
 - <img src="https://img.shields.io/github/stars/zilliztech/claude-context?style=social" height="17" align="texttop"/> [claude-context](https://github.com/zilliztech/claude-context) - make entire codebase the context for any coding agent
 - <img src="https://img.shields.io/github/stars/pipeshub-ai/pipeshub-ai?style=social" height="17" align="texttop"/> [pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) - a fully extensible and explainable workplace AI platform for enterprise search and workflow automation
+- <img src="https://img.shields.io/github/stars/crow-hq/llm-wiki-v2?style=social" height="17" align="texttop"/> [llm-wiki-v2](https://github.com/crow-hq/llm-wiki-v2) - files your documents into a Markdown wiki that answers with citations; a small classifier decides where notes go, with Ollama for local models
 
 [Back to Table of Contents](#table-of-contents)
 
