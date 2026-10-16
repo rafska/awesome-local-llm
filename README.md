@@ -368,6 +368,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17" align="texttop"/> [stagehand](https://github.com/browserbase/stagehand) -  the AI Browser Automation Framework
 - <img src="https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social" height="17" align="texttop"/> [nanobrowser](https://github.com/nanobrowser/nanobrowser) - open-source Chrome extension for AI-powered web automation
 - <img src="https://img.shields.io/github/stars/Tencent/BrowserSkill?style=social" height="17" align="texttop"/> [BrowserSkill](https://github.com/Tencent/BrowserSkill) - CLI + extension for browser automation across any shell-capable AI agent
+- <img src="https://img.shields.io/github/stars/SnowFXXX/LocalAgentBrowser?style=social" height="17" align="texttop"/> [LocalAgentBrowser](https://github.com/SnowFXXX/LocalAgentBrowser) - autonomous web research agent built for a 7B model on a CPU via LM Studio and Playwright
 
 [Back to Table of Contents](#table-of-contents)
 
