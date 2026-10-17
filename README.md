@@ -109,6 +109,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [LLM Explorer](https://llm-explorer.com/) - explore list of the open-source LLM models
 - [Dubesor LLM Benchmark table](https://dubesor.de/benchtable) - small-scale manual performance comparison benchmark
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
+- [DeepSeek-R1 Local VRAM & Telemetry Benchmarks](https://www.thelifehacknexus.com/2026/10/the-local-deepseek-r1-reasoning.html) - Empirical VRAM footprint math, token/s throughput benchmarks, and VS Code setup for distilled 14B & 32B models on consumer GPUs
+
 - [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
 - <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/swe-serve?style=social" height="17" align="texttop"/> [swe-serve](https://github.com/NVIDIA/swe-serve) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
