@@ -122,7 +122,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Tencent](https://huggingface.co/tencent) - a profile of a Chinese multinational technology conglomerate and holding company
 - [Unsloth AI](https://huggingface.co/unsloth) - focusing on making AI more accessible to everyone (GGUFs etc.)
 - [bartowski](https://huggingface.co/bartowski) - providing GGUF versions of popular LLMs
-- [TurinTech](https://huggingface.co/turintech) - smaller GGUF versions of decision models (Clef, Clef-Flash, Perplexity's Decider, Kev) and Gemma 4, each checked against its original
+- [TurinTech](https://huggingface.co/turintech) - GGUF conversions of open models, with local inference instructions and comparisons with the originals
 - [Beijing Academy of Artificial Intelligence](https://huggingface.co/BAAI) - a private non-profit organization engaged in AI research and development
 - [Open Thoughts](https://huggingface.co/open-thoughts) - a team of researchers and engineers curating the best open reasoning datasets
 
