@@ -267,6 +267,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/dottxt-ai/outlines?style=social" height="17" align="texttop"/> [outlines](https://github.com/dottxt-ai/outlines) - structured outputs for LLMs
 - <img src="https://img.shields.io/github/stars/mostlygeek/llama-swap?style=social" height="17" align="texttop"/> [llama-swap](https://github.com/mostlygeek/llama-swap) - reliable model swapping for any local OpenAI compatible server - llama.cpp, vllm, etc.
 - <img src="https://img.shields.io/github/stars/guidance-ai/llguidance?style=social" height="17" align="texttop"/> [llguidance](https://github.com/guidance-ai/llguidance) - super-fast structured outputs
+- <img src="https://img.shields.io/github/stars/geeks-accelerator/ollama-herd?style=social" height="17" align="texttop"/> [ollama-herd](https://github.com/geeks-accelerator/ollama-herd) - route requests across several machines running Ollama or mlx_lm.server, picking a node by memory fit, queue depth and loaded models
 
 [Back to Table of Contents](#table-of-contents)
 
