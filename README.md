@@ -460,7 +460,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCP0QFok6EimQYTMj5qOLNow?style=social" height="17" align="texttop"/> [Donato Capitella](https://www.youtube.com/@donatocapitella) - practical and insightful tutorials on running LLMs locally
 - <img src="https://img.shields.io/youtube/channel/subscribers/UCQs0lwV6E4p7LQaGJ6fgy5Q?style=social" height="17" align="texttop"/> [JetsonHacks](https://www.youtube.com/@JetsonHacks) - information about developing on NVIDIA Jetson Development Kits
 - <img src="https://img.shields.io/youtube/channel/subscribers/UC8h2Sf-yyo1WXeEUr-OHgyg?style=social" height="17" align="texttop"/> [Miyconst](https://www.youtube.com/@Miyconst) - tests of various types of hardware capable of running LLMs
-- [Kolosal - LLM Memory calculator](https://www.kolosal.ai/memory-calculator) - estimate the RAM requirements of any GGUF model instantly
+- [AI Model Hardware Fit Finder](https://essamamdani.com/ai-models/hardware-fit) - search local AI models by capability and estimate fit for selected Apple Silicon, NVIDIA GPU or CPU-only hardware
 - [LLM Inference VRAM & GPU Requirement Calculator](https://app.linpp2009.com/en/llm-gpu-memory-calculator) - calculate how many GPUs you need to deploy LLMs
 - <img src="https://img.shields.io/github/stars/vosen/ZLUDA?style=social" height="17" align="texttop"/> [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [Strix Halo AI Toolboxes](https://strix-halo-toolboxes.com/) - toolboxes for GenAI on AMD Ryzen AI MAX+: containerized environments for LLMs, Image Generation, and Fine-tuning
