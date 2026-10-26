@@ -346,6 +346,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/openchamber/openchamber?style=social" height="17" align="texttop"/> [openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - <img src="https://img.shields.io/github/stars/ThePrimeagen/99?style=social" height="17" align="texttop"/> [99](https://github.com/ThePrimeagen/99) - neovim AI agent done right
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17" align="texttop"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
+- <img src="https://img.shields.io/github/stars/ibmshaikh/OpenPilot?style=social" height="17" align="texttop"/> [OpenPilot](https://github.com/ibmshaikh/OpenPilot) - open-source desktop AI agent for any OpenAI-compatible model (Ollama, LM Studio, OpenRouter, OpenAI); approve shell/file changes; MIT; not related to comma.ai
 
 [Back to Table of Contents](#table-of-contents)
 
