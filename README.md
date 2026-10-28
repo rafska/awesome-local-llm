@@ -395,6 +395,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/Giskard-AI/giskard?style=social" height="17" align="texttop"/> [giskard](https://github.com/Giskard-AI/giskard) - an open-source evaluation & testing for AI & LLM systems
 - <img src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" height="17" align="texttop"/> [agenta](https://github.com/Agenta-AI/agenta) - an open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA-NeMo/evaluator?style=social" height="17" align="texttop"/> [Evaluator](https://github.com/NVIDIA-NeMo/evaluator) - open-source library for scalable, reproducible evaluation of AI models and benchmarks
+- <img src="https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social" height="17" align="texttop"/> [openclaw-monitor](https://github.com/flik2002/openclaw-monitor) - a free, self-hosted monitoring dashboard for OpenClaw AI agents: per-model token usage, session tracking, and 7-day usage trends
 
 [Back to Table of Contents](#table-of-contents)
 
