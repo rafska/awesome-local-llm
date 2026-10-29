@@ -112,6 +112,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
 - <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/swe-serve?style=social" height="17" align="texttop"/> [swe-serve](https://github.com/NVIDIA/swe-serve) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
+- <img src="https://img.shields.io/github/stars/DanielChernov7/llm-cpu-bench?style=social" height="17" align="texttop"/> [llm-cpu-bench](https://github.com/DanielChernov7/llm-cpu-bench) -  one-script Ollama benchmark for CPU-only servers: generation and prompt tokens/s, cold load and peak RAM, with results from shared and dedicated cloud vCPUs
 
 [Back to Table of Contents](#table-of-contents)
 
