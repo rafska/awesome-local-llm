@@ -207,6 +207,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [chatterbox](https://huggingface.co/ResembleAI/chatterbox) - first production-grade open-source TTS model
 - [VibeVoice](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) - a collection of frontier text-to-speech models from Microsoft
 - [Kitten TTS](https://huggingface.co/KittenML/models) - a collection of open-source realistic text-to-speech models designed for lightweight deployment and high-quality voice synthesis
+- [Supertonic 3](https://huggingface.co/Supertone/supertonic-3) - a lightweight open-weight on-device text-to-speech model in 31 languages that runs on CPU with ONNX Runtime
+- [SuperClonica](https://huggingface.co/Superclonica/superclonica) - an Apache-2.0 offline engine and free voice files for Supertonic 3, running on CPU or CUDA
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Streaming Sortformer Diarizer 4spk v2.1](https://huggingface.co/nvidia/diar_streaming_sortformer_4spk-v2.1) - a streaming version of a novel end-to-end neural model for speaker diarization from NVIDIA
 
 [Back to Table of Contents](#table-of-contents)
