@@ -219,6 +219,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Qwen3-VL-Embedding](https://huggingface.co/collections/Qwen/qwen3-vl-embedding) - an addition to the Qwen embedding models, specifically designed for multimodal information retrieval and cross-modal understanding
 - [Qwen3-Reranker](https://huggingface.co/collections/Qwen/qwen3-vl-reranker) - a collection of the latest proprietary Qwen models, engineered to refine embedding results
 - [Qwen3-VL-Reranker](https://huggingface.co/collections/Qwen/qwen3-vl-reranker) - an addition to the Qwen embedding models, specifically designed for multimodal information retrieval and cross-modal understanding
+- [Cognito](https://github.com/mert-ogul/Cognito) - local desktop RAG app for PDF, Word, and Markdown documents, using Ollama for chat and embeddings with source citations
 
 [Back to Table of Contents](#table-of-contents)
 
