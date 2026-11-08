@@ -302,7 +302,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/deepsense-ai/ragbits?style=social" height="17" align="texttop"/> [ragbits](https://github.com/deepsense-ai/ragbits) - building blocks for rapid development of GenAI applications
 - <img src="https://img.shields.io/github/stars/minasfostieris-ui/ohmyllm?style=social" height="17" align="texttop"/> [ohmyllm](https://github.com/minasfostieris-ui/ohmyllm) - local-first agentic platform for Ollama and LM Studio: permission-gated tool loops, persistent markdown memory, voice dictation, vram-aware model market, TUI + GUI + CLI on one engine, MIT licensed
 
-
 [Back to Table of Contents](#table-of-contents)
 
 ### Model Context Protocol
