@@ -12,6 +12,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
   - [Specific models](#specific-models)
     - [General purpose](#general-purpose)
     - [Coding](#coding)
+    - [Decision](#decision)
     - [Multimodal](#multimodal)
     - [Image](#image)
     - [Audio](#audio)
@@ -172,6 +173,15 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 [Back to Table of Contents](#table-of-contents)
 
+#### Decision
+
+- [Decision 3.0](https://huggingface.co/collections/vllm-sr/decision-30) - a collection of Open multimodal foundation decision models
+- [GLiNER2.5](https://huggingface.co/collections/fastino/gliner25-models) - a collection of models for schema-driven information extraction and classification
+- [clef](https://huggingface.co/Cloudflare/clef) - a multimodal model from Cloudflare that turns a state and a schema of typed questions into decisions
+- [d1-3B](https://huggingface.co/LiquidAI/d1-3B) & [d1-omni-600M](https://huggingface.co/LiquidAI/d1-omni-600M) - open source decision models
+
+[Back to Table of Contents](#table-of-contents)
+
 #### Multimodal
 
 - [Qwen3-Omni](https://huggingface.co/collections/Qwen/qwen3-omni-68d100a86cd0906843ceccbe) - a collection of the natively end-to-end multilingual omni-modal foundation models from Qwen
@@ -242,10 +252,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### Miscellaneous
 
-- [Decision 3.0](https://huggingface.co/collections/vllm-sr/decision-30) - a collection of Open multimodal foundation decision models
-- [GLiNER2.5](https://huggingface.co/collections/fastino/gliner25-models) - a collection of models for schema-driven information extraction and classification
-- [clef](https://huggingface.co/Cloudflare/clef) - a multimodal model from Cloudflare that turns a state and a schema of typed questions into decisions
-- [d1-3B](https://huggingface.co/LiquidAI/d1-3B) & [d1-omni-600M](https://huggingface.co/LiquidAI/d1-omni-600M) - open source decision models
 - [Hy-Memory](https://huggingface.co/collections/tencent/hy-memory) - a compact long-term-memory writer model developed by Tencent to execute the write path inside external memory frameworks
 - [Intern-S2](https://huggingface.co/collections/internlm/intern-s2) - a collection of multimodal foundation models for scientific intelligence and long-horizon agents
 - [Holo4](https://huggingface.co/collections/Hcompany/holo4) - a collection of Visual Language Models for computer/mobile use, tool calls, and code
