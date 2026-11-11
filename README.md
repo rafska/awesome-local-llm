@@ -175,6 +175,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### Decision
 
+- [basal-2.0](https://huggingface.co/collections/Remek/basal-20) - a family of typed-decision models for Polish and English
 - [Decision 3.0](https://huggingface.co/collections/vllm-sr/decision-30) - a collection of Open multimodal foundation decision models
 - [GLiNER2.5](https://huggingface.co/collections/fastino/gliner25-models) - a collection of models for schema-driven information extraction and classification
 - [clef](https://huggingface.co/Cloudflare/clef) - a multimodal model from Cloudflare that turns a state and a schema of typed questions into decisions
