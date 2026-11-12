@@ -113,6 +113,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [oobabooga benchmark](https://oobabooga.github.io/benchmark.html) - a list sorted by size (on disk) for each score
 - [CyberGym](https://www.cybergym.io/) - evaluating AI agents' real-world cybersecurity capabilities at scale
 - <img src="https://img.shields.io/github/stars/IBM/vakra?style=social" height="17" align="texttop"/> [vakra](https://github.com/IBM/vakra) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
+- <img src="https://img.shields.io/github/stars/Siddhant-K-code/LLMTraceFX?style=social" height="17" align="texttop"/> [LLMTraceFX](https://github.com/Siddhant-K-code/LLMTraceFX) - measure local MLX, llama.cpp and OpenAI-compatible inference with per-metric provenance and correctness-checked workloads
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/swe-serve?style=social" height="17" align="texttop"/> [swe-serve](https://github.com/NVIDIA/swe-serve) -  a benchmark for evaluating multi-hop, multi-source tool-calling in AI agents
 
 [Back to Table of Contents](#table-of-contents)
