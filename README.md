@@ -393,6 +393,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/LMCache/LMCache?style=social" height="17" align="texttop"/> [LMCache](https://github.com/LMCache/LMCache) - supercharge your LLM with the fastest KV Cache Layer
 - <img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=social" height="17" align="texttop"/> [memU](https://github.com/NevaMind-AI/memU) - an open-source memory framework for AI companions
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/google-research/reasoning-bank?style=social" height="17" align="texttop"/> [reasoning-bank](https://github.com/google-research/reasoning-bank) - a memory mechanism for agents that learns from both successful and failed trajectories, with reasoning stored as memory content
+- <img src="https://img.shields.io/github/stars/vshulcz/deja-vu?style=social" height="17" align="texttop"/> [deja-vu](https://github.com/vshulcz/deja-vu) - local, offline cross-agent memory, full-text search, and MCP recall across 43 AI coding agents
 
 [Back to Table of Contents](#table-of-contents)
 
