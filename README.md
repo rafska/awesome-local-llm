@@ -280,6 +280,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Agent Frameworks
 
+- <img src="https://img.shields.io/github/stars/nousresearch/hermes-agent?style=social" height="17" align="texttop"/> [hermes-agent](https://github.com/nousresearch/hermes-agent) - the agent that grows with you
 - <img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" height="17" align="texttop"/> [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows
 - <img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social" height="17" align="texttop"/> [langflow](https://github.com/langflow-ai/langflow) - a powerful tool for building and deploying AI-powered agents and workflows
 - <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" height="17" align="texttop"/> [langchain](https://github.com/langchain-ai/langchain) - build context-aware reasoning applications
@@ -289,6 +290,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" height="17" align="texttop"/> [autogen](https://github.com/microsoft/autogen) - a programming framework for agentic AI
 - <img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social" height="17" align="texttop"/> [crewAI](https://github.com/crewAIInc/crewAI) - a framework for orchestrating role-playing, autonomous AI agents
 - <img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" height="17" align="texttop"/> [Flowise](https://github.com/FlowiseAI/Flowise) - build AI agents, visually
+- <img src="https://img.shields.io/github/stars/pingdotgg/t3code?style=social" height="17" align="texttop"/> [t3code](https://github.com/pingdotgg/t3code) - an agent harness control surface
 - <img src="https://img.shields.io/github/stars/run-llama/llama_index?style=social" height="17" align="texttop"/> [llama_index](https://github.com/run-llama/llama_index) - the leading framework for building LLM-powered agents over your data
 - <img src="https://img.shields.io/github/stars/agno-agi/agno?style=social" height="17" align="texttop"/> [agno](https://github.com/agno-agi/agno) - a full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning
 - <img src="https://img.shields.io/github/stars/simstudioai/sim?style=social" height="17" align="texttop"/> [sim](https://github.com/simstudioai/sim) - open-source platform to build and deploy AI agent workflows
