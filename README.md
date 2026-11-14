@@ -378,6 +378,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Browser Automation
 
 - <img src="https://img.shields.io/github/stars/mendableai/firecrawl?style=social" height="17" align="texttop"/> [firecrawl](https://github.com/mendableai/firecrawl) - turn entire websites into LLM-ready markdown or structured data
+- <img src="https://img.shields.io/github/stars/TulipFarm/huntsman?style=social" height="17" align="texttop"/> [huntsman](https://github.com/TulipFarm/huntsman) - self-hosted Go scraper that turns any page into clean Markdown behind a Firecrawl-compatible API, rendering JavaScript with Lightpanda
 - <img src="https://img.shields.io/github/stars/browser-use/browser-use?style=social" height="17" align="texttop"/> [browser-use](https://github.com/browser-use/browser-use) - make websites accessible for AI agents
 - <img src="https://img.shields.io/github/stars/puppeteer/puppeteer?style=social" height="17" align="texttop"/> [puppeteer](https://github.com/puppeteer/puppeteer) - a JavaScript API for Chrome and Firefox
 - <img src="https://img.shields.io/github/stars/microsoft/playwright?style=social" height="17" align="texttop"/> [playwright](https://github.com/microsoft/playwright) - a framework for Web Testing and Automation
