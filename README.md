@@ -314,6 +314,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Model Context Protocol
 
+- <img src="https://img.shields.io/github/stars/SalyyS1/mcp-slim?style=social" height="17" align="texttop"/> [mcp-slim](https://github.com/SalyyS1/mcp-slim) - Zero-dependency MCP stdio proxy & CLI profiler that cuts tool schema and output tokens by 50%-98.7%, flattens `$ref` schemas for local LLMs, and redacts secrets in real time
 - <img src="https://img.shields.io/github/stars/mindsdb/mindsdb?style=social" height="17" align="texttop"/> [mindsdb](https://github.com/mindsdb/mindsdb) - federated query engine for AI - the only MCP Server you'll ever need 
 - <img src="https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social" height="17" align="texttop"/> [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - <img src="https://img.shields.io/github/stars/github/github-mcp-server?style=social" height="17" align="texttop"/> [github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -427,6 +428,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Training and Fine-tuning
 
+- <img src="https://img.shields.io/github/stars/SalyyS1/loraspectra?style=social" height="17" align="texttop"/> [loraspectra](https://github.com/SalyyS1/loraspectra) - Pure-NumPy SVD spectral analyzer, effective rank profiler, Energy-Optimal SVD Rank Pruner, and Subspace Conflict Detector for `.safetensors` LoRA adapters (no PyTorch or GPU required)
 - <img src="https://img.shields.io/github/stars/p-e-w/heretic?style=social" height="17" align="texttop"/> [heretic](https://github.com/p-e-w/heretic) - fully automatic censorship removal for language models
 - <img src="https://img.shields.io/github/stars/huggingface/sentence-transformers?style=social" height="17" align="texttop"/> [sentence-transformers](https://github.com/huggingface/sentence-transformers) - a Python library for using and training embedding and reranker models for applications like retrieval augmented generation, semantic search, and more
 - <img src="https://img.shields.io/github/stars/huggingface/trl?style=social" height="17" align="texttop"/> [trl](https://github.com/huggingface/trl) - train transformer language models with reinforcement learning
