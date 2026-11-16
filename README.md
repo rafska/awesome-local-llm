@@ -342,10 +342,12 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Coding Agents
 
 - <img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="17" align="texttop"/> [opencode](https://github.com/sst/opencode) - a AI coding agent built for the terminal
+- <img src="https://img.shields.io/github/stars/stablyai/orca?style=social" height="17" align="texttop"/> [orca](https://github.com/stablyai/orca) - the AI orchestrator for 100x builders
 - <img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" height="17" align="texttop"/> [zed](https://github.com/zed-industries/zed) - a next-generation code editor designed for high-performance collaboration with humans and AI
 - <img src="https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social" height="17" align="texttop"/> [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - <img src="https://img.shields.io/github/stars/cline/cline?style=social" height="17" align="texttop"/> [cline](https://github.com/cline/cline) - autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way
 - <img src="https://img.shields.io/github/stars/block/goose?style=social" height="17" align="texttop"/> [goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions
+- <img src="https://img.shields.io/github/stars/herdrdev/herdr?style=social" height="17" align="texttop"/> [herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - <img src="https://img.shields.io/github/stars/Aider-AI/aider?style=social" height="17" align="texttop"/> [aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal
 - <img src="https://img.shields.io/github/stars/continuedev/continue?style=social" height="17" align="texttop"/> [continue](https://github.com/continuedev/continue) - create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - <img src="https://img.shields.io/github/stars/TabbyML/tabby?style=social" height="17" align="texttop"/> [tabby](https://github.com/TabbyML/tabby) - an open-source GitHub Copilot alternative, set up your own LLM-powered code completion server
