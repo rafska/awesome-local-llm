@@ -104,6 +104,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Explorers, Benchmarks, Leaderboards
 
+- [Gemma 4 Run](https://gemma-4.run/) - free local VRAM & GGUF quantization compatibility checker across 302 GPUs, Apple Silicon Macs, and mobile devices with E2B/E4B comparison and browser sandbox
 - [Arena](https://arena.ai/) - benchmark & compare the best AI models
 - [AI Models & API Providers Analysis](https://artificialanalysis.ai/) - understand the AI landscape to choose the best model and provider for your use case
 - [SWE-rebench](https://swe-rebench.com/) - a continuously evolving and decontaminated benchmark for software engineering LLMs
