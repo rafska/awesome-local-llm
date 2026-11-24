@@ -252,6 +252,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 #### Miscellaneous
 
 - [Hy-Memory](https://huggingface.co/collections/tencent/hy-memory) - a compact long-term-memory writer model developed by Tencent to execute the write path inside external memory frameworks
+- [Hy-MT3](https://huggingface.co/collections/tencent/hy-mt3) - a multilingual translation model family developed by Tencent
 - [Intern-S2](https://huggingface.co/collections/internlm/intern-s2) - a collection of multimodal foundation models for scientific intelligence and long-horizon agents
 - [Holo4](https://huggingface.co/collections/Hcompany/holo4) - a collection of Visual Language Models for computer/mobile use, tool calls, and code
 - [Marco-MoE](https://huggingface.co/collections/AIDC-AI/marco-moe) - a suit of multilingual MoE models with highly-sparse architectures
