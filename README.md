@@ -135,6 +135,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - [DeepSeek-V4](https://huggingface.co/collections/deepseek-ai/deepseek-v4) - a collection of the DeepSeek V4 LLMs
 - [Qwen3.8](https://huggingface.co/collections/Qwen/qwen38) - a collection of the latest generation Qwen LLMs
+- [Inkling 2](https://huggingface.co/collections/thinkingmachines/inkling-2) - a collection of general-purpose multimodal models designed to be used by developers building AI-powered applications, including agentic and tool-use systems, coding assistants, chatbots, and retrieval-augmented generation systems
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [NVIDIA Nemotron v3](https://huggingface.co/collections/nvidia/nvidia-nemotron-v3) - a family of open models from NVIDIA with open weights, training data and recipes, delivering leading efficiency and accuracy for building specialized AI agents
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [Gemma 4](https://huggingface.co/collections/google/gemma-4) - a family of open models built by Google DeepMind, that are multimodal, handling text and image input (with audio supported on small models) and generating text output
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mistral Medium 3.5](https://huggingface.co/collections/mistralai/mistral-medium-35) - The first flaship models from Mistral AI handling instruction-following, reasoning, and coding in a single set of opened-weights
@@ -149,9 +150,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Ling-3.1-flash](https://huggingface.co/inclusionAI/Ling-3.1-flash) - an upgraded native hybrid reasoning model from inclusionAI designed for complex, real-world tasks
 - [Granite 4.1](https://huggingface.co/collections/ibm-granite/granite-41-language-models) - efficient language models from IBM for multilingual generation, coding, RAG, and AI assistant workflows
 - [Ornith-1.5](https://huggingface.co/collections/ornith-ai/ornith-15) - a collection of open-source models for agentic tasks and coding
-- [EXAONE-4.5](https://huggingface.co/collections/LGAI-EXAONE/exaone-45) - LG's First Open-Weight Vision-Language Model for Industrial Intelligence
-- [Step-5-Preview](https://huggingface.co/collections/stepfun-ai/step-5-preview) - StepFun's flagship model for agentic work
-- [Occamy-1.0](https://huggingface.co/Accio-Lab/occamy-1.0) - a compact agentic model purpose-built for real-world co-work
 - [MiniCPM5](https://huggingface.co/collections/openbmb/minicpm5) - a collection of SOTA on-device LLMs, small yet powerful
 - [LFM3](https://huggingface.co/collections/LiquidAI/lfm3) - a family of models from LiquidAI designed for specialized on-device intelligence 
 
