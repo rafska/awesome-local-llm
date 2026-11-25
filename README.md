@@ -361,6 +361,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/moonshotai/kimi-code?style=social" height="17" align="texttop"/> [kimi-code](https://github.com/moonshotai/kimi-code) - the starting point for next-gen agents
 - <img src="https://img.shields.io/github/stars/ThePrimeagen/99?style=social" height="17" align="texttop"/> [99](https://github.com/ThePrimeagen/99) - neovim AI agent done right
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17" align="texttop"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
+- <img src="https://img.shields.io/github/stars/LeulAria/volt?style=social" height="17" align="texttop"/> [volt](https://github.com/LeulAria/volt) - an open-source VS Code-based agent workspace that works with Ollama and LM Studio, with hunk-level review of agent edits and Git checkpoints
 
 [Back to Table of Contents](#table-of-contents)
 
