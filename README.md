@@ -280,6 +280,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Agent Frameworks
 
 - <img src="https://img.shields.io/github/stars/nousresearch/hermes-agent?style=social" height="17" align="texttop"/> [hermes-agent](https://github.com/nousresearch/hermes-agent) - the agent that grows with you
+- <img src="https://img.shields.io/github/stars/maxkxd/extremely-autonomous-agents?style=social" height="17" align="texttop"/> [extremely-autonomous-agents](https://github.com/maxkxd/extremely-autonomous-agents) - free, open-source autonomous ai agency for mac, windows and linux that runs on your own computer. bring your own claude, chatgpt or local models.
 - <img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" height="17" align="texttop"/> [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - a powerful platform that allows you to create, deploy, and manage continuous AI agents that automate complex workflows
 - <img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social" height="17" align="texttop"/> [langflow](https://github.com/langflow-ai/langflow) - a powerful tool for building and deploying AI-powered agents and workflows
 - <img src="https://img.shields.io/github/stars/langchain-ai/langchain?style=social" height="17" align="texttop"/> [langchain](https://github.com/langchain-ai/langchain) - build context-aware reasoning applications
