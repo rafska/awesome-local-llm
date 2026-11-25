@@ -361,6 +361,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/moonshotai/kimi-code?style=social" height="17" align="texttop"/> [kimi-code](https://github.com/moonshotai/kimi-code) - the starting point for next-gen agents
 - <img src="https://img.shields.io/github/stars/ThePrimeagen/99?style=social" height="17" align="texttop"/> [99](https://github.com/ThePrimeagen/99) - neovim AI agent done right
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17" align="texttop"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
+- <img src="https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=social" height="17" align="texttop"/> [nanocoder](https://github.com/Nano-Collective/nanocoder) - a local-first, open-source coding agent for your terminal that runs on local or any OpenAI-compatible models
 
 [Back to Table of Contents](#table-of-contents)
 
