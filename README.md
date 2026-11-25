@@ -360,6 +360,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/SWE-agent/mini-swe-agent?style=social" height="17" align="texttop"/> [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - the 100 line AI agent that solves GitHub issues or helps you in your command line
 - <img src="https://img.shields.io/github/stars/moonshotai/kimi-code?style=social" height="17" align="texttop"/> [kimi-code](https://github.com/moonshotai/kimi-code) - the starting point for next-gen agents
 - <img src="https://img.shields.io/github/stars/ThePrimeagen/99?style=social" height="17" align="texttop"/> [99](https://github.com/ThePrimeagen/99) - neovim AI agent done right
+- <img src="https://img.shields.io/github/stars/memcode-ai/memcode?style=social" height="17" align="texttop"/> [memcode](https://github.com/memcode-ai/memcode) - a terminal coding agent that remembers your repo (persistent per-project memory in a local .memcode store); single Go binary, runs against a local Ollama endpoint or your own keys
 - <img src="https://img.shields.io/github/stars/carlrobertoh/ProxyAI?style=social" height="17" align="texttop"/> [ProxyAI](https://github.com/carlrobertoh/ProxyAI) - the leading open-source AI copilot for JetBrains
 
 [Back to Table of Contents](#table-of-contents)
