@@ -373,6 +373,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/simular-ai/Agent-S?style=social" height="17" align="texttop"/> [Agent-S](https://github.com/simular-ai/Agent-S) - an open agentic framework that uses computers like a human
 - <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" height="17" align="texttop"/> [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - a framework to enable multimodal models to operate a computer
 - <img src="https://img.shields.io/github/stars/MiniMax-AI/OpenRoom?style=social" height="17" align="texttop"/> [OpenRoom](https://github.com/MiniMax-AI/OpenRoom) - a browser-based desktop where AI Agent operates every app through natural language, from MiniMaxAI
+- <img src="https://img.shields.io/github/stars/Dragon-Forge-master/cunning-claw?style=social" height="17" align="texttop"/> [Cunning Claw](https://github.com/Dragon-Forge-master/cunning-claw) - local AI agent that works your shell, browser and email, and asks before it sends, spends or deletes
 
 [Back to Table of Contents](#table-of-contents)
 
