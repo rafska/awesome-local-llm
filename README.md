@@ -87,6 +87,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/brontoguana/krasis?style=social" height="17" align="texttop"/> [krasis](https://github.com/brontoguana/krasis) - a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
 - <img src="https://img.shields.io/github/stars/intel/llm-scaler?style=social" height="17" align="texttop"/> [llm-scaler](https://github.com/intel/llm-scaler) - run LLMs on Intel Arc™ Pro B60 and B70 GPUs
 - <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17" align="texttop"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
+- <img src="https://img.shields.io/github/stars/fjw4cfv2fb-afk/Mference-2.0?style=social" height="17" align="texttop"/> [Mference 2.0](https://github.com/fjw4cfv2fb-afk/Mference-2.0) - native Swift 6.1 + Metal 3 Apple Silicon inference runtime streaming 35B MoE experts from NVMe SSD in 16 GB RAM, with native MTP + Hybrid PLD speculation and lossless BF16 weight surgery
 
 [Back to Table of Contents](#table-of-contents)
 
