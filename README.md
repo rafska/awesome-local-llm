@@ -87,6 +87,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/brontoguana/krasis?style=social" height="17" align="texttop"/> [krasis](https://github.com/brontoguana/krasis) - a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
 - <img src="https://img.shields.io/github/stars/intel/llm-scaler?style=social" height="17" align="texttop"/> [llm-scaler](https://github.com/intel/llm-scaler) - run LLMs on Intel Arc™ Pro B60 and B70 GPUs
 - <img src="https://img.shields.io/github/stars/nlzy/vllm-gfx906?style=social" height="17" align="texttop"/> [vllm-gfx906](https://github.com/nlzy/vllm-gfx906) - vLLM for AMD gfx906 GPUs, e.g. Radeon VII / MI50 / MI60
+- <img src="https://img.shields.io/github/stars/audenvenn/raceline?style=social" height="17" align="texttop"/> [raceline](https://github.com/audenvenn/raceline) - a Metal inference engine and agent runtime for Apple Silicon: Qwen mixture-of-experts models with their experts streamed from the SSD, image input, exact speculative decoding, OpenAI- and Anthropic-compatible
 
 [Back to Table of Contents](#table-of-contents)
 
