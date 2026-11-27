@@ -525,6 +525,7 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 
 - <img src="https://img.shields.io/github/stars/sybil-solutions/inference-optimisation-skill?style=social" height="17" align="texttop"/> [inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) - agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
 - <img src="https://img.shields.io/github/stars/vllm-project/production-stack?style=social" height="17" align="texttop"/> [vLLM Production Stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization
+- <img src="https://img.shields.io/badge/Website-%23000000?logo=googlechrome&logoColor=white" height="17" align="texttop"/> [Learn inference engineering](https://inferenceacademy.com/inference-engineering) - a staged roadmap from token generation and the roofline to engine internals, quantization, speculative decoding and benchmarking, with free lessons in every stage
 
 [Back to Table of Contents](#table-of-contents)
 
