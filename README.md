@@ -246,6 +246,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [gpt-oss-safeguard](https://huggingface.co/collections/openai/gpt-oss-safeguard) - a collection of safety reasoning models built-upon gpt-oss from OpenAI
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [privacy-filter](https://huggingface.co/openai/privacy-filter) - a bidirectional token-classification model from OpenAI for personally identifiable information (PII) detection and masking in text
 - [AprielGuard](https://huggingface.co/ServiceNow-AI/AprielGuard) - a safeguard model designed to detect and mitigate both safety risks and security threats in LLM interactions
+- [ReDefiNER PII](https://huggingface.co/jungroo-ai/redefiner-pii) - a 0.8B rule-following model with a ready-made rulebook that finds and masks 20 kinds of personal data in text on a CPU; edit the plain-English rulebook to change what counts
 
 [Back to Table of Contents](#table-of-contents)
 
