@@ -523,6 +523,7 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 
 ### Inference
 
+- <img src="https://img.shields.io/github/stars/sybil-solutions/inference-optimisation-skill?style=social" height="17" align="texttop"/> [inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) - agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization
 - <img src="https://img.shields.io/github/stars/vllm-project/production-stack?style=social" height="17" align="texttop"/> [vLLM Production Stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization
 
 [Back to Table of Contents](#table-of-contents)
@@ -537,6 +538,7 @@ Improves Code Generation](https://arxiv.org/pdf/2604.01193)
 - <img src="https://img.shields.io/github/stars/agentsmd/agents.md?style=social" height="17" align="texttop"/> [agents.md](https://github.com/agentsmd/agents.md) - a simple, open format for guiding coding agents
 - <img src="https://img.shields.io/github/stars/agentskills/agentskills?style=social" height="17" align="texttop"/> [Agent Skills](https://github.com/agentskills/agentskills) - a simple, open format for giving agents new capabilities and expertise
 - <img src="https://img.shields.io/github/stars/huggingface/skills?style=social" height="17" align="texttop"/> [skills](https://github.com/huggingface/skills) - Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training and evaluation
+- <img src="https://img.shields.io/github/stars/sybil-solutions/skill-distill?style=social" height="17" align="texttop"/> [skill-distill](https://github.com/sybil-solutions/skill-distill) - distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task
 - <img src="https://img.shields.io/github/stars/oxbshw/LLM-Agents-Ecosystem-Handbook?style=social" height="17" align="texttop"/> [LLM Agents & Ecosystem Handbook](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook) - one-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [601 real-world gen AI use cases](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders) - 601 real-world gen AI use cases from the world's leading organizations by Google
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) - a practical guide to building agents by OpenAI
