@@ -373,6 +373,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/simular-ai/Agent-S?style=social" height="17" align="texttop"/> [Agent-S](https://github.com/simular-ai/Agent-S) - an open agentic framework that uses computers like a human
 - <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" height="17" align="texttop"/> [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - a framework to enable multimodal models to operate a computer
 - <img src="https://img.shields.io/github/stars/MiniMax-AI/OpenRoom?style=social" height="17" align="texttop"/> [OpenRoom](https://github.com/MiniMax-AI/OpenRoom) - a browser-based desktop where AI Agent operates every app through natural language, from MiniMaxAI
+- <img src="https://img.shields.io/github/stars/casama-ai/casama?style=social" height="17" align="texttop"/> [casama](https://github.com/casama-ai/casama) - AI bots with their own sandboxed Linux computers; self-hostable with local models through OpenAI-compatible endpoints such as Ollama (open-source apps, closed engine, free personal license)
 
 [Back to Table of Contents](#table-of-contents)
 
